@@ -2,8 +2,13 @@ import json
 import os
 import glob
 import csv
+import re
 from bareunpy import Tagger
 from google.protobuf.json_format import MessageToDict
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
+from nltk import ngrams
+from collections import Counter
 
 class CustomDictAnalyzer:
     """
@@ -24,12 +29,12 @@ class CustomDictAnalyzer:
         # json파일 및 wav파일 목록을 만듭니다.
         self.corpus_list = corpus_list
         self.corpus_json_dict = {}
-        self.corpus_wav_dict = {}
+        # self.corpus_wav_dict = {}
         for idx, corpus in enumerate(corpus_list):
-            wavs = glob.glob(os.path.join(corpus, '**/*.wav'), recursive=True) # file 이름 규칙은 변경될 수 있다.
+            # wavs = glob.glob(os.path.join(corpus, '**/*.wav'), recursive=True) # file 이름 규칙은 변경될 수 있다.
             json_files = glob.glob(os.path.join(corpus, '**/*.json'), recursive=True)
             self.corpus_json_dict[f'{str(idx)}_json'] = json_files # 요청된 corpus 리스트 순서대로 번호를 부여한다.
-            self.corpus_wav_dict[f'{str(idx)}_wavs'] = self.mapping_name(wavs)
+            # self.corpus_wav_dict[f'{str(idx)}_wavs'] = self.mapping_name(wavs)
 
         self.results = []
 
@@ -115,20 +120,54 @@ class CustomDictAnalyzer:
         
         with open(f'out/json/corpus/{out_name}.json', 'w', encoding='utf-8') as f:
             json.dump(results, f, ensure_ascii=False, indent=4)
-    
+
+    # 워드 클라우드 생성 및 시각화 함수
+    def create_word_cloud(self, sentences, target_word, n=5, output_dir='out/jpg'):
+        # N-gram 추출
+        word_freq = Counter()
+        for sentence in sentences:
+            tokens = sentence.split()
+            if target_word in tokens:
+                index = tokens.index(target_word)
+                start = max(0, index - (n-1)//2)
+                end = min(len(tokens), index + (n-1)//2 + 1)
+                window = tokens[start:end]
+                # N-gram을 생성하지 않고 단어의 윈도우에서 각 단어를 카운트
+                word_freq.update(window)
+
+        # 워드 클라우드로 시각화
+        wordcloud = WordCloud(
+            font_path='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/NanumBarunGothic.ttf',
+            width=800, 
+            height=400, 
+            background_color='white'
+        ).generate_from_frequencies(word_freq)
+        output_file = os.path.join(output_dir, f'{target_word}_wordcloud.jpg')
+        wordcloud.to_file(output_file)
+        
+        
     def analyze_custom_dict_tokens(self, json_file):
         with open(json_file, 'r', encoding='utf-8') as file:
             data = json.load(file)
-            
+        
+        # 중간 처리를 위한 임시 저장소
         custom_word_freq = {}
         next_token_tags = {}
+        all_sentences = []  # 모든 문장을 저장할 리스트
+
+        # JSON 데이터 처리
         for d in data:
             for sentence in d.values():
                 tokens = sentence['tokens']
+                cleaned_sentence = []  # 불용어를 제거한 문장을 위한 리스트
                 for i in range(len(tokens)):
                     token = tokens[i]
                     for morpheme in token['morphemes']:
-                        if 'outOfVocab'in morpheme and morpheme['outOfVocab'] == 'IN_CUSTOM_DICT':
+                        token_tag = f"{morpheme['text']['content']}/{morpheme['tag']}"
+                        if self.check_pattern(token_tag):  # 불용어 제거
+                            cleaned_sentence.append(morpheme['text']['content'])
+
+                        if 'outOfVocab' in morpheme and morpheme['outOfVocab'] == 'IN_CUSTOM_DICT':
                             word = morpheme['text']['content']
                             custom_word_freq[word] = custom_word_freq.get(word, 0) + 1
 
@@ -137,8 +176,13 @@ class CustomDictAnalyzer:
                                 next_token_tag = next_token['morphemes'][0]['tag']
                                 token_tag = f'{next_token["morphemes"][0]["text"]["content"]}/{next_token_tag}'
                                 next_token_tags[token_tag] = next_token_tags.get(token_tag, 0) + 1
-        
+                
+                # 불용어를 제거한 문장을 all_sentences에 추가
+                all_sentences.append(' '.join(cleaned_sentence))
+
+        # 데이터 저장
         os.makedirs('out/csv', exist_ok=True)
+
         # custom_word_freq를 CSV 파일로 저장
         with open('out/csv/custom_word_freq.csv', 'w', newline='', encoding='utf-8') as file:
             writer = csv.writer(file)
@@ -152,9 +196,20 @@ class CustomDictAnalyzer:
             writer.writerow(['Next Token/Tag', 'Count'])
             for token_tag, count in next_token_tags.items():
                 writer.writerow([token_tag, count])
-                
-        return custom_word_freq, next_token_tags
+
+        # 불용어를 제거한 문장을 CSV 파일로 저장
+        with open('out/csv/cleaned_sentences.csv', 'w', newline='', encoding='utf-8') as file:
+            writer = csv.writer(file)
+            writer.writerow(['Cleaned Sentence'])
+            for sentence in all_sentences:
+                writer.writerow([sentence])
         
+        return custom_word_freq, next_token_tags, all_sentences
+    
+    @staticmethod
+    def check_pattern(token_tag):
+        pattern = r'/(J|E|S|E)|\d+/N|^(하|이|되|있|아니)/V'
+        return not re.search(pattern, token_tag)    
     
     def run(self):
         """
@@ -175,7 +230,8 @@ if __name__ == '__main__':
     corpus_targets = ['data/abbreviation']
     analyzer = CustomDictAnalyzer(corpus_targets)
     # analyzer.run()
-    custom_word_freq, next_token_tags = analyzer.analyze_custom_dict_tokens('out/json/corpus/형태소분석_결과.json')
-    print(custom_word_freq)
-    print(next_token_tags)
+    custom_word_freq, next_token_tags, cleaned_sentences = analyzer.analyze_custom_dict_tokens('out/json/corpus/형태소분석_결과.json')
+    analyzer.create_word_cloud(cleaned_sentences, target_word='고딩', n=3)
+    analyzer.create_word_cloud(cleaned_sentences, target_word='직딩', n=3)
+
     

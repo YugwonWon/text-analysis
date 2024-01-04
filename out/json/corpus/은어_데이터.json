@@ -1,0 +1,3547 @@
+[
+    {
+        "편세권": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "편의점에 가까이 있는 생활권'을 의미함"
+        }
+    },
+    {
+        "식테크": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "식물을 잘 키워 중고 거래 앱 등에서 비싼 값에 되파는 방식 / 식물+재테크"
+        }
+    },
+    {
+        "닭질": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "닭+질 \n1) 쓸모없는 일을 뜻하며 일이 허사가 되었을때 의미없이 되어버린 일들을 일컫는다\n2) 필요없는일을 만들어서 하는경우 혹은 다른 사람이 할 필요없는 일을 시켜서 하는 경우에 사용한다\n"
+        }
+    },
+    {
+        "티키타카": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "대화의 합이 잘 맞아 주고받기가 잘 되는 것"
+        }
+    },
+    {
+        "나토족": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "말만하고 행동은 하지 않는 유형의 직장인"
+        }
+    },
+    {
+        "강퇴": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "인터넷·컴퓨터 통신의 대화방 등에서, 어떤 사람을 방에서 강제로 나가게 하는 것."
+        },
+        "오지다": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "놀라거나 감탄할 때 사용하는 단어\""
+        }
+    },
+    {
+        "댕청이": {
+            "WordType": "속어",
+            "WordStructure": "파생어",
+            "WordDefine": "멍청이를 의미하며,‘멍’ 자를 그 모양이 비슷한 ‘댕’ 자로 바꿔 표기한 것"
+        },
+        "쌤": {
+            "WordType": "줄임말",
+            "WordStructure": "파생어",
+            "WordDefine": "선생님(교사, 강사 등)을 줄여 부르는 말. 학생들끼리도 선생님을 부를 때 은어로 많이 쓰인다.\n 하지만 꼭 교사나 강사를 줄여 부르는 말이라기 보다는 특정 직업을 가진 사람들끼리 사람의 이름 뒤에도 붙일 수 있다. \n연구원 등 직급끼리도 쌤이라 부르는 사람들도 있다."
+        }
+    },
+    {
+        "남주": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "남자 주인공"
+        },
+        "여주": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "여자 주인공"
+        },
+        "캐미": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "‘화학 반응’이란 뜻을 가진 chemistry의 줄인 말인 캐미(chemi)는 사람과 사람(주로 남녀)의 어울림, 궁합 등을 표현할 때 사용."
+        }
+    },
+    {
+        "가계정": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "임시 계정"
+        },
+        "DM": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "다이렉트 메시지 의 줄임말 (디엠)"
+        }
+    },
+    {
+        "쭈삼": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "쭈꾸미 삼겹살"
+        }
+    },
+    {
+        "꾸꾸꾸": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "꾸민듯 꾸민듯 꾸밈, 꾸안꾸의 반대 / 꾸며도 꾸질꾸질"
+        }
+    },
+    {
+        "진지충": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": "진지하다'의 '진지'와 벌레를 뜻하는 '충'을 결합시킨 단어. / 웃자고 하는 말에 과도하게 진지하게 반응해 덤벼드는 것.\n 상대방은 웃고 즐기자는 측면에서 가벼운 농담을 던졌는데, 받아들이는 사람이 까칠하게 받아치거나 정색하여 분위기를 싸하게 만드는 현상을 말한다."
+        }
+    },
+    {
+        "뽀글이": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "(은어) 라면 등을 냄비에 끓이지 않고 봉지째로 뜨거운 물을 넣고 익혀서 먹는 방식.또는 그 형태"
+        }
+    },
+    {
+        "킹왕짱": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": "킹왕짱(King王~)은 인터넷의 속어로서 영어의 베스트(Best)와 마찬가지의 뜻을 포함하고 있다. 즉 더 좋을 수 없을 때까지 좋다라는 의미와 최고, 극한의 뜻을 지니고 있다."
+        }
+    },
+    {
+        "전쪽": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "전체 쪽지'의 줄임말"
+        },
+        "갑분싸": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "갑자기 분위기 싸해진다'의 줄임말"
+        }
+    },
+    {
+        "총알": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "상품 구매나 투자 목적으로 사용할 수 있는 현금"
+        },
+        "떡락": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "떡칠'을 의미하는 '떡'과 물건의 값이나 주가 등이 갑자기 큰 폭으로 떨어지는 것을 의미하는 '급하락'을 합쳐 만든 단어"
+        },
+        "영끌족": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "부족한 것을 마치 복어마냥 한껏 부풀려보이기 위하여 없는 돈이나 물건 등을 끌어모은 모습을 희화화하는 표현이다."
+        }
+    },
+    {
+        "알파맘": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "아이의 미래를 적극적으로 설계하고자 자녀 교육에 개입하며 \n많은 정보를 취합하여 자녀에게 가장 효율적인 교육방식을 제공하는 엄마."
+        }
+    },
+    {
+        "스불재": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "스스로 불러온 재앙의 줄임말"
+        }
+    },
+    {
+        "도세권": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "도서관+역세권\"의 합성어 / 도서관이 가까운 거리에 있는 곳"
+        }
+    },
+    {
+        "문찐": {
+            "WordType": "속어",
+            "WordStructure": "혼성어",
+            "WordDefine": "문화 찐따'의 준말 / 대중문화에 대해 잘 모르는 사람을 낮잡아 이르는 말."
+        }
+    },
+    {
+        "댕청이": {
+            "WordType": "속어",
+            "WordStructure": "파생어",
+            "WordDefine": "멍청이를 의미하며,‘멍’ 자를 그 모양이 비슷한 ‘댕’ 자로 바꿔 표기한 것"
+        },
+        "허접": {
+            "WordType": "속어",
+            "WordStructure": "파생어",
+            "WordDefine": "무언가 형편없음을 지칭하는 비하성 속어. 어원은 '좋은 것이 빠지고 남은 허름한 물건'이라는 의미의?'허섭스레기'에서 온 말이다.?"
+        }
+    },
+    {
+        "라떼는말이야": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "나때는 말이야'에서 파생됨 / 기성세대가 자주 쓰는 `나 때는 말이야` 를 풍자하는 표현."
+        },
+        "실화냐": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "정말이냐'의 강조 표현"
+        },
+        "직딩": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "직장인'을 속되게 이르는 말."
+        },
+        "존나": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "매우~, 너무~, 엄청~ 등 의 뜻으로 대상, 혹은 감정을 강조할 때 쓰이는 한국어의 비속어."
+        },
+        "하메": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "하우스메이트'의 준말"
+        },
+        "땅콩주택": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": "공동 소유의 토지 위에 같거나 비슷한 모양으로 나란히 지어진 두 가구의 집"
+        },
+        "초코아": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "초등학교가 바로 코 앞에 있는 아파트'의 준말"
+        },
+        "공세권": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "공원(park)+역세권의 합성어"
+        },
+        "몰세권": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "몰(Mall)+역세권으로 편리하게 문화생활을 즐길 수 있는 지역을 뜻함"
+        },
+        "웃프다": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "웃기면서 슬프다"
+        },
+        "엘사": {
+            "WordType": "은어",
+            "WordStructure": "축약어",
+            "WordDefine": "엘 에이치(LH) 아파트에 사는 사람을 비하하는 말"
+        },
+        "졸라": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "매우~, 너무~, 엄청~ 등 의 뜻으로 대상, 혹은 감정을 강조할 때 쓰이는 한국어의 비속어."
+        },
+        "전거지": {
+            "WordType": "속어",
+            "WordStructure": "축약어",
+            "WordDefine": "전세 사는 거지'의 준말 / 초등학생들이 어린나이에 주거 형태를 두고 차별적인 단어를 형성하여 놀릴때 사용하는 단어"
+        },
+        "개무시": {
+            "WordType": "유행어",
+            "WordStructure": "혼성어",
+            "WordDefine": "매우 무시한다의 강조표현"
+        },
+        "이생집망": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "이번 생에는 집 사기는 망했다'의준말"
+        },
+        "오포세대": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "연애, 결혼, 출산을 포기한 삼포세대에 인간관계와 집을 추가로 포기한 세대"
+        },
+        "조낸": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "정말 매우 진짜 굉장히 라는 뜻으로 비속어인 '존나' 와 같은 표현"
+        },
+        "죽빵": {
+            "WordType": "유행어",
+            "WordStructure": "기타",
+            "WordDefine": "상대방의 뺨을 손바닥이 아닌?주먹으로 치는 행위를 뜻한다."
+        },
+        "월거지": {
+            "WordType": "속어",
+            "WordStructure": "축약어",
+            "WordDefine": "월세 사는 거지'의 준말 / 초등학생들이 어린나이에 주거 형태를 두고 차별적인 단어를 형성하여 놀릴때 사용하는 단어"
+        },
+        "휴거지": {
+            "WordType": "은어",
+            "WordStructure": "축약어",
+            "WordDefine": "휴먼시아 아파트(국민임대 아파트)에 사는 사람을 비하하는 말"
+        },
+        "홈캠핑": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "홈(Home)+캠핑(Camping)'의 합성어 / 실내에서 최소한의 캠핑 장비로 캠핑 분위기를 내는 것을 일컫는 말"
+        },
+        "펫팸족": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": " 'Pet'+'Family'가 합쳐진 신조어 / 반려동물을 마치 가족처럼 여기는 사람들을 뜻함"
+        },
+        "주복": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "주상 복합 아파트'의 준말"
+        },
+        "놀토": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "노는 토요일'의 줄임말"
+        },
+        "워너비": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "닮고 싶은 사람을 뜻함 /외국에서는 주관 없이 외형이나 행동을 따라하는 사람 / wanna be 에서 파생됨"
+        },
+        "열일하다": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "열심히 일하다의 줄임말"
+        }
+    },
+    {
+        "가성비": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "가격 대비 성능비'를 줄인말로써 지불한 가격에 비해 얼마나 성능(만족감)이 높은지를 의미하는 단어"
+        },
+        "갑통알": {
+            "WordType": "은어",
+            "WordStructure": "축약어",
+            "WordDefine": "갑자기 통장을 보니 알바를 해야겠다"
+        },
+        "알바": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "아르바이트'의 줄임말"
+        },
+        "야근각": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "야근+신조어'각'의 합성어 / 야근하게 될 것 같은 조짐이나 분위기를 나타내는 말"
+        },
+        "거품": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": " 실제 가치보다 더 높은 가격이 형성된 것을 표현하는 말"
+        },
+        "코인충": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "국내에서 암호화페 투자 광풍이 발생하면서 생긴 신조어 암호화페 투자자들을 비하하는 단어이다"
+        },
+        "잘알": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "?’잘 알고 있다‘의 줄임말로,  무언가 또는 어떠한 분야에 많은 지식을 갖고 있는 사람을 일컫는 말이다.\n야구를 잘 알면 ‘야잘알’ 게임을 잘 알면 ‘겜잘알’ 등으로 쓰인다."
+        },
+        "채린이": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "채굴 + 어린이 / 암호화폐 채굴을 처음 시작한 초보자를 뜻함"
+        },
+        "토스매매법": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "주식과 가상화폐 등 재테크하는 방법을 희화'하는 말."
+        },
+        "손절": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "손절매'(損切賣)의 약자, 가격이 더 떨어질 것으로 예상하고 손해를 보더라도 매도하는 행위 / '주식용어 \"손절매\"에서 유래/자신과 잘 맞지 않는 사람과 관계를 단절하는 행위"
+        },
+        "총알": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "상품 구매나 투자 목적으로 사용할 수 있는 현금"
+        },
+        "짠테크": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "짜다+제테크'의 합성어 / 절약을 통해 투자를 위한 종잣돈을 모으는 방식을 뜻함"
+        },
+        "파테크": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "파+제테크 / 햇볕만 있으면 자라는 집에서 키워 파값을 아끼자는 의미로 쓰임\n대파값이 급등하며 생긴 신조어"
+        },
+        "저렴이": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "저렴하면서 가성비 좋은 제품을 뜻함"
+        },
+        "돈쭐내다": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "돈' + '혼쭐내다'의 합성어. 혼쭐내다는 매우 강하게 혼을 내어 꾸짖음을 묻는 것인 반면, \n이에 대한 반어법과 그 변형으로 어떠한 사람이 사회적으로 옳은 행동을 했을 때 '이 사람은 돈다발로 뺨을 때려야 한다' 라는 뜻으로 생긴 신조어"
+        },
+        "가심비": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "가격 대비 심리적 만족도를 일컫는 말"
+        },
+        "멍청비용": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "나의 부주의로 멍청하게 낭비한 돈"
+        },
+        "쓸쓸비용": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "외로움과 쓸쓸함을 달래기 위해 기분 전환하려고 지출하는 비용을 말한다"
+        },
+        "떡락": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "떡칠'을 의미하는 '떡'과 물건의 값이나 주가 등이 갑자기 큰 폭으로 떨어지는 것을 의미하는 '급하락'을 합쳐 만든 단어"
+        },
+        "착한가격": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "착한+가격' / 서민적이고 저렴한 가격, 또는 적당히 싼 가격"
+        },
+        "현타": {
+            "WordType": "유행어",
+            "WordStructure": "축약어",
+            "WordDefine": "현실자각타임'을 줄인말/무언가를 집중해서 열정적으로 행동하고 난 뒤 갑자기 그 일을 후회하거나 수치스러워 함"
+        },
+        "존버": {
+            "WordType": "속어",
+            "WordStructure": "축약어",
+            "WordDefine": "비속어'존나'+ '버티다'의 줄임말/끝까지 막연하게 버팀"
+        },
+        "이코노사이드": {
+            "WordType": "속어",
+            "WordStructure": "혼성어",
+            "WordDefine": "경제(economy)와 자살(suicide)의 합성어 / 생활고로 자살이라는 최악의 선택을 하는 사태"
+        },
+        "영끌족": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "부족한 것을 마치 복어마냥 한껏 부풀려보이기 위하여 없는 돈이나 물건 등을 끌어모은 모습을 희화화하는 표현이다."
+        },
+        "욜로족": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "본인 중심의 소비와 행복을 우선시하는 사람들"
+        },
+        "욜로": {
+            "WordType": "줄임말",
+            "WordStructure": "혼성어",
+            "WordDefine": "욜로+나홀로의 합성어로 본인 중심의 소비와 행복을 우선시하는 것"
+        }
+    },
+    {
+        "졸라": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "매우~, 너무~, 엄청~ 등 의 뜻으로 대상, 혹은 감정을 강조할 때 쓰이는 한국어의 비속어."
+        },
+        "혼놀": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "혼자 놀다"
+        },
+        "혼코노": {
+            "WordType": "은어",
+            "WordStructure": "축약어",
+            "WordDefine": "혼자 코인 노래방'의 약자"
+        },
+        "코노": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "코인 노래방'의 약자"
+        },
+        "지대": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "제대로>지대로>지대"
+        },
+        "렬루": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "real' 리얼로? 리얼루?를 빨리 발음한단어 / '진짜?'의 뜻을 가지고 있음"
+        },
+        "웃프다": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "웃기면서 슬프다"
+        },
+        "또라이": {
+            "WordType": "속어",
+            "WordStructure": "파생어",
+            "WordDefine": "상식에서 벗어나는 사고방식과 생활 방식을 가지고 자기 멋대로 하는 사람을 속되게 이르는 말"
+        },
+        "노답": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "노답' (No+답) / 답이 없다는 뜻"
+        },
+        "뇌피셜": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "뇌+오피셜(official) 합성어/자기 머리에서 나온 생각을 사실로 검증된 듯이 말함"
+        },
+        "다이다이": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "싸우다의 다른 표현 혹은 목숨을 걸고 싸우다라는 의미도로 사용"
+        },
+        "대유잼": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "大(큰 대)有(있을 유)잼으로 큰 재미가 있다는 의미"
+        },
+        "노가리": {
+            "WordType": "속어",
+            "WordStructure": "파생어",
+            "WordDefine": "수다나 거짓말을 속되게 이르는 말. "
+        },
+        "리즈시절": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "지나간 전성기, 혹은 황금기를 뜻한다. / 잉글랜드 프리미어 리그의 프로 축구단인 '리즈 유나이티드 FC'를 줄인 '리즈[1]'와 '시절(時節)'의 합성어"
+        },
+        "말넘심": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "말이?너무(넘)?심하다의?줄임말이다."
+        },
+        "따봉": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": " 1. (포르투갈어 뜻을 그대로 받아) '매우 좋다'를 비유적으로 일컫는 말. / 인터넷에서 많이 쓰임\r\n 2. 한국에서?엄지를 척 올려세우는 손 동작을 뜻하는 단어. 좋다, 알겠다라는 뜻의?포르투갈어(ta bom)에서 왔다."
+        },
+        "뚜벅이": {
+            "WordType": "은어",
+            "WordStructure": "기타",
+            "WordDefine": "자가용 차량이 없는 사람을 부르는 은어 / 자동차 없이 대중교통을 이용하는 사람들을 비유적으로 일컫는 말이다."
+        },
+        "뚝배기": {
+            "WordType": "속어",
+            "WordStructure": "파생어",
+            "WordDefine": "1. 한 게임의 효과음 중 타격음이 뚝배기 소리 같았는데 마침 때려지는 부위가 머리여서 '뚝배기=머리'의 의미로 치환되어 사용됨\n2. 사람의 '머리'를 속되게 이르는 말"
+        },
+        "빵커": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "빵+커피'의 준말"
+        },
+        "빵돌이": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "1. 빵을 좋아하는 남자. 2. 학교에서 동료 학생들의 폭력이나 강요 때문에 빵 심부름을 도맡아하는 남자아이."
+        },
+        "뚱냥이": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "돼지+고양이라는 의미로, 살이 많이 쪄서 돼지처럼 뚱뚱한 비만 고양이를 의미한다. 뚱냥이라고도 부른다."
+        },
+        "헐랭방구": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "감탄사의 의미인 '헐랭'+방구(房口)의 합성어 / 이 상황이 너무 어이가 없음에 피가 식으며 입이 닫긴다.라는 뜻을 가지고 있으나 그냥 '헐'과 같은 뜻이다"
+        },
+        "오운완": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "오늘의 운동 완료' 의 준말"
+        },
+        "허접": {
+            "WordType": "속어",
+            "WordStructure": "파생어",
+            "WordDefine": "무언가 형편없음을 지칭하는 비하성 속어. 어원은 '좋은 것이 빠지고 남은 허름한 물건'이라는 의미의?'허섭스레기'에서 온 말이다.?"
+        },
+        "행복회로": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "1. 행복' 과 '회로'의 합성어\r\n2. 행복한 상상을 하는 행태\r\n3. 행복한 상상을 하면서 앞으로 할 일에 대해 머리를 이리저리 굴려 보는 것"
+        }
+    },
+    {
+        "품절녀": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "이미 결혼을 하여 더 이상 이성으로 접근할 수 없는 여자를 비유적으로 이르는 말."
+        },
+        "스드메": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "스튜디오-웨딩드레스-메이크업 3종 세트의 준말 "
+        },
+        "에바": {
+            "WordType": "속어",
+            "WordStructure": "파생어",
+            "WordDefine": "요즘 신세대 사람들이 오바를 변형해서 말한 것이다. 약간 지나친 느낌."
+        },
+        "시월드": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "시댁 혹은 \"시집살이\"를 나타내는 대한민국의 인터넷 신조어"
+        },
+        "엄카": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "엄마 카드의 준말"
+        },
+        "예랑": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "예비 신랑 /  '랑이', '예랑이'라고도 쓰인다."
+        },
+        "마마보이": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": "MaMa+Boy의 합성어 / 주체적으로 행동하지 못하고 어머니에게 의존하는 소년이나 남자."
+        },
+        "열라": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "열나게의 줄임말"
+        },
+        "콩가루집안": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": "여러 가지 이유로 도덕적으로 매우 바람직하지 않은?가족을 말한다."
+        },
+        "헐": {
+            "WordType": "유행어",
+            "WordStructure": "기타",
+            "WordDefine": "주로 황당한 상황에 닥쳤을 때 하는 감탄사로 쓰인다. / \"황당할 때, 화가 날 때, 짜증 날 때 등 다양한 상황에 쓸 수 있는 표현"
+        },
+        "속도위반결혼": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": "대체로?미혼남녀 사이에 의도하지 않은 혼전임신으로 인하여, 결혼을 하게 되는 것을 일컫는 속어적 표현이다"
+        },
+        "골드맘": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "풍족하게 자라서 자기 자녀들이나 자기한테 아끼지 않고 쓰고 투자하는 엄마"
+        },
+        "치마바람": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "엄마들이 자기 자식을 위해 불합리적으로 실력을 행사하는 행위"
+        },
+        "아들램": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "아들래미의 줄임말"
+        },
+        "현타": {
+            "WordType": "유행어",
+            "WordStructure": "축약어",
+            "WordDefine": "현실자각타임'을 줄인말/무언가를 집중해서 열정적으로 행동하고 난 뒤 갑자기 그 일을 후회하거나 수치스러워 함"
+        },
+        "우유남": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "우월한 유전자 남자'의 줄임말"
+        },
+        "넘나": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "너무나의 줄임말"
+        },
+        "극혐": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "극도로 혐오한다는 말의 신조어"
+        },
+        "엄빠": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "엄마 아빠의 줄임말"
+        },
+        "비번": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "비밀번호'의 줄임말"
+        },
+        "남의편": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "남편에게 불만있는 아내들이 \"남편\"이란 단어를 가지고 단어 중간에 '의'를 넣어서 \"남의 편\"이라고 사용"
+        },
+        "개깜놀": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "매우 깜짝 놀라다의 강조표현"
+        },
+        "노답": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "노답' (No+답) / 답이 없다는 뜻"
+        },
+        "찌질이": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "소속된 집단에 잘 적응하지 못하고 겉도는 사람을 속되게 이르는 말."
+        },
+        "억텐": {
+            "WordType": "유행어",
+            "WordStructure": "축약어",
+            "WordDefine": "억지로 재미있는 척을 하고 격한 바응을 하는 모습을 나타내는 말/\"억지 텐션\" 의 줄임말"
+        },
+        "치맥": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "치킨과 맥주를 함께 먹는 것"
+        },
+        "절친": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "절친한 친구'의 준말"
+        },
+        "담": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "다음의 줄임말"
+        },
+        "야곱": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "야채 곱창'의 준말"
+        },
+        "조낸": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "정말 매우 진짜 굉장히 라는 뜻으로 비속어인 '존나' 와 같은 표현"
+        }
+    },
+    {
+        "월급루팡": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": "직장에서 하는 일 없이 월급만 타 가는 직원을 비유적으로 이르는 말."
+        },
+        "꼰대": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "늙은이', '선생님'을 속되게 이르는 말 "
+        },
+        "워커홀릭": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "가정이나 다른 것보다 일이 우선이어서 오로지 일에만 몰두하여 사는 사람을 뜻함"
+        },
+        "마도잡다": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "누군가 프로젝트를 주도해 끌고 간다/\"마도\"는 \"마도구찌\"에서 나온 말로 \"창구\"라는 뜻을 가지고 있다"
+        },
+        "개짜증": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "매우 짜증난다의 강조 표현"
+        },
+        "이퇴백": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "이십 대에 퇴직한 백수 /적성에 맞지 않는 등의 이유로 퇴사해 다시 백수가 된 사람을 뜻한다."
+        },
+        "쉼포족": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "쉼을 포기한 사람/쉬지않고 일만 하는 사람을 일컫는 신조어"
+        },
+        "파이어족": {
+            "WordType": "은어",
+            "WordStructure": "축약어",
+            "WordDefine": "경제적 독립+빠른 은퇴/ F(파인넨셜, 경제적) I(인디펜선스, 독립) R(리타이어, 은퇴) E(얼리, 빠르게)/경제적인 독립으로 일찍 은퇴하는 사람."
+        },
+        "워너비": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "닮고 싶은 사람을 뜻함 /외국에서는 주관 없이 외형이나 행동을 따라하는 사람 / wanna be 에서 파생됨"
+        },
+        "짜치다": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "쪼들리다의 경상도 방언/ 수준이 모자라거나 기대치에 미치지 못하는 경우/ 급이 없고 낮아서 후져보인다."
+        },
+        "데꼬보꼬": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": " 주로 요소의 배치, 크기 등에 대비를 줄 때 사용한다. / 일반적으로 '평평하지 못하다''울퉁불퉁''매끄럽지 못하다''들쭉날쭉하다 "
+        },
+        "워라밸": {
+            "WordType": "줄임말",
+            "WordStructure": "혼성어",
+            "WordDefine": "워크(work) & 라이프(life)+밸런스(balance)를 합친 단어/직장인들 사이에서 주로 쓰임/\"일과 생활의 균형\""
+        },
+        "이태백": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "이십 대 태반이 백수'의 줄임말"
+        },
+        "삼태백": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "삼십 대 태반이 백수'의 줄임말"
+        },
+        "취집": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "취업 대신 시집'의 줄임말"
+        },
+        "삼초땡": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "30대 초반이면 명예퇴직을 생각해야 한다"
+        },
+        "사오정": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "45세가 정년이라는 말로 정년이 아닌데도 직장에서 내몰리는 40대"
+        },
+        "오륙도": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "56세까지 직장에 있으면 도둑이라는 뜻으로 정년을 채우지 못하는 50대"
+        },
+        "돌취생": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "돌아온 취업준비생의 준말"
+        },
+        "백수": {
+            "WordType": "은어",
+            "WordStructure": "기타",
+            "WordDefine": "만 19세 이상의 성인이면서?대학생,?대학원생,?병역 이행?중이 아닌 사람들 중에서 직업이 없는 사람들을 뜻하는 말\n"
+        },
+        "뻥": {
+            "WordType": "속어",
+            "WordStructure": "파생어",
+            "WordDefine": "거짓말을 속되게 이르는 말"
+        },
+        "코피스족": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "커피전문점에서 휴대전화나 노트북 등을 이용해 업무를 보는 직장인"
+        },
+        "회의주의자": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "틈만 나면 별 의미 없이 미팅을 소집하는 상사나 선배직원"
+        },
+        "고진감래": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "고용해 주셔서 진짜 감사한데, 집에 갈래'의 줄임말"
+        },
+        "환승이직": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "환승해서 바로 이직하는 사람/재직 중이다가 이직 성공해서바로 그만두고 바로 새 직장 들어가는 사람"
+        },
+        "암반수": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "직장에서 눈에 띄지 않게 조용히 숨을 죽이고 있는 사람"
+        },
+        "청백전": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "청년 백수 전성시대'의 줄임말"
+        },
+        "장미족": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "장기간 미취업 상태에 있는 사람"
+        }
+    },
+    {
+        "롤": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "게임 \"league of leagend\" 의 축약어/ Roll. 주사위를 굴리는 것을 일컫는 말."
+        },
+        "주챔": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "자신이 가장 잘 다루는 캐릭터"
+        },
+        "애쉬": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "리그 오브 레전드 최초의 17 캐릭터 중 하나"
+        },
+        "버프": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": " 캐릭터의 스펙을 향상시켜주는 마법류를 통칭하는 말"
+        },
+        "챔프": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "챔피언'의 약자"
+        },
+        "끔살": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "게임에서 끔찍하게?살해당하다의 줄임말. 상황에 따라?끔찍하게?살해하다란 뜻으로도 쓰인다."
+        },
+        "PVP": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "Player vs Player(Player versus Player, 약칭 PvP)는\n흔히 온라인 게임 내의 서로 다른 플레이어 캐릭터 사이에서 벌어지는 싸움 (피비피)"
+        },
+        "원딜": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "원거리에서 적을 공격하는 모든 직업군을 원딜이라고 부른다."
+        },
+        "하드캐리": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "캐리의 파생어로 어두에 hard라는 단어를 넣어 그 뜻을 강조한 것 / 열심히 캐리하다."
+        },
+        "서폿": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "Supporter. 지원자. 지지자, 후원자라는 뜻의 영어 단어를 줄인말."
+        },
+        "한타": {
+            "WordType": "은어",
+            "WordStructure": "기타",
+            "WordDefine": "?RTS에서 게임의 승부를 좌우하는 수준의 대규모 교전을 의미하는 뜻"
+        },
+        "제라스": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "리그 오브 레전드의 84번째 캐릭터"
+        },
+        "파밍": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "게임에서 캐릭터의 능력을 상승시키기 위해 아이템 등을 모으는 행위/ 농사(Farming)에서 파생 됨"
+        },
+        "개짜증": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "매우 짜증난다의 강조 표현"
+        },
+        "닷지": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "1. ‘회피하다’ ‘~를 피하다’라는 뜻을 가진 영어 단어에서 나왔다. 여러 가지 이유로 게임 시작 전에 창(방)에서 나가버리는 행위를 의미한다.\r\n2. 1 1/4 군차량을 일컫는 말."
+        },
+        "여친": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "여자친구의 줄임말"
+        },
+        "캐삭빵": {
+            "WordType": "줄임말",
+            "WordStructure": "혼성어",
+            "WordDefine": "캐릭터 삭제 빵의 준말.?\n온라인 게임에서 말 그대로 패배한 쪽이 본인의 캐릭터를 삭제하기로 정하고?PvP를 하는 행위다."
+        },
+        "렉": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "영어단어 LAG을 표현하는 말로 Lag <속도 등이> 뒤떨어지다\n온라인 게임도중 렉 현상을 일컫는 말로 접속이 불안정하여\n화면이 멈춰있거나 컴퓨터가 버벅거리는 상황을 표현하는 말"
+        },
+        "현질": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "현금(現金)의 현+접미사 '질'\n게임상 아이템이나 재화등을 부분 유료화 게임의 유료 아이템을 현금으로 사는 것. 현질 외에도 캐시질(cash질)이라고 칭하기도 한다."
+        },
+        "생선": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "생일 선물'의 줄임말"
+        },
+        "문상": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "문화 상품권의 줄임말"
+        },
+        "빡겜": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": "장난기 없이 진지하게 게임 한다 "
+        },
+        "순삭": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "게임에선 눈 깜짝할 사이에 상대방을 제거하고자 할 때 종종 사용한다."
+        },
+        "아이템": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "일반 사전에선 ‘항목’ ‘물품’ 등으로 번역되는 영어 단어지만, 『게임』은 ‘게임 플레이를 통해 획득할 수 있는 가상의 물건 또는 대상’란 뜻"
+        },
+        "평타": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "말 그대로 일반 공격을 뜻하는 게임 용어로, 평범한 타격의 준말이다"
+        },
+        "템빨": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "어떤 사람의 능력이 대부분 그/그녀가 가지고 있는 장비나 물품에서 나오는 것이라, 해당 물품 없이 맨몸으로는 아무것도 못 하는 상황을 낮잡아 이르는 말.?"
+        },
+        "렙업": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "레벨+업의 준말 / 지위나 품질, 능력 따위를 높임. 또는 그렇게 됨."
+        },
+        "쿠쿠루삥뽕": {
+            "WordType": "은어",
+            "WordStructure": "기타",
+            "WordDefine": "웃음을 나타내는 신조어"
+        },
+        "개빡치다": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "강조의 표현인 '개'+ 화난다의 속된 말인'빡친다'의 합성어 / '정말 화난다' 라는 뜻을 가지고 있다."
+        },
+        "밸붕": {
+            "WordType": "은어",
+            "WordStructure": "축약어",
+            "WordDefine": "밸런스 붕괴'라는 뜻으로 특정 캐릭터가 다른 캐릭터에 비해 능력 차이가 큰 경우를 일컫는 개념이다. "
+        },
+        "배그": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "게임 \"배틀 그라운드\"의 줄임말"
+        },
+        "뉴비": {
+            "WordType": "은어",
+            "WordStructure": "기타",
+            "WordDefine": "new be' 의 한글대체어로서 -초보자- 라는 뜻을 가지고 있다."
+        },
+        "팀킬": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": "팀원 간의 협동이 필요한 게임이나 경기에서 고의 또는 실수로 같은 팀원을 공격하거나 쓰러뜨리는 행위.?"
+        },
+        "트롤러": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "관심끌기, 관심유발, 화나게 하기 등 이런 일을 일부러 하는 걸 말하며 오히려 즐기는 사람을 뜻한다."
+        },
+        "상스치콤": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "상하이 스파이시 치킨버거 콤보'의 준말"
+        }
+    },
+    {
+        "존맛탱": {
+            "WordType": "유행어",
+            "WordStructure": "기타",
+            "WordDefine": "매우 맛있음을 뜻하는 '존맛'에 '탱'을 붙인 말"
+        },
+        "고딩": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "모바일이나 인터넷상에서, `고등학생'을 이르는 말."
+        },
+        "아닥공": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "아, 닥치고 공부’의 줄임말 혹은 ‘아가리 닥치고 공부’의 줄임말"
+        },
+        "수포자": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "수학을?포기한?자의 준말."
+        },
+        "영포자": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "영어를?포기한?자의 준말."
+        },
+        "땡땡이": {
+            "WordType": "은어",
+            "WordStructure": "기타",
+            "WordDefine": "상당히 오래전부터 널리 쓰였던 은어로서 근무시간에 일을 하지 않거나\n수업시간을 빼먹고 몰래 도망가거나 딴짓거리를 하면서 시간을 때우는 행위를 일컫는다."
+        },
+        "담탱이": {
+            "WordType": "속어",
+            "WordStructure": "파생어",
+            "WordDefine": "담임선생님'을 이르는 말."
+        },
+        "은따": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "은근히 따돌림 당하는 아이를 지칭"
+        },
+        "전따": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "전교적으로 따돌림 당하는 아이"
+        },
+        "올백": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "올(all)+100 /전부 백점을 맞았다라는 교육계 은어"
+        },
+        "얼짱": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "얼굴짱 (최고)의 줄임말. 장난조로 얼굴짱(커)나 얼굴짱나의 준말이라고도 한다."
+        },
+        "아싸": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "영어 아웃사이더(outsider)를 줄인 말로 여러 사람들과 잘 어울리지 못하는 사람들을 일컫는 말"
+        },
+        "열공": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "열심히 공부하자의 줄임말 "
+        },
+        "깜지": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "흰 종이에 글씨를 빽빽하게 쓰는 벌을 일컫는 속어"
+        },
+        "개어이없다": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "어이없다의 강조 표현"
+        },
+        "재종학원": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "재수 종합 학원의 줄임말"
+        },
+        "대딩": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "모바일이나 인터넷상에서, `대학생'을 이르는 말."
+        },
+        "반수": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "대학입시 용어로, 대학교를 다니다가 입시를 다시 치는 행위.\n반수라는 말 그대로 대학생이면서도 반은 재수생인 어정쩡한 상태. "
+        },
+        "고삼": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "고등학교 3학년 의 줄임말"
+        },
+        "셤": {
+            "WordType": "줄임말",
+            "WordStructure": "파생어",
+            "WordDefine": "시험의 준말."
+        },
+        "중이병": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": "사춘기를 비꼬는 인터넷 속어이다. / 사춘기인 청소년들을 비하, 혐오하는 말로 사용된다."
+        },
+        "사망년": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "3학년이라는 뜻/대학교 3학년이 취업을 본격적으로 시작하며 어려움을 겪는 시기를 표현"
+        },
+        "풀강": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "풀(full)+ 강화의 줄임말로 게임내에서의 아이템을 최대치로 강화한것을 이르는 말 / 풀(full)+강의의 줄임말. 쉬지 않고 쭉- 수업을 듣는 것"
+        },
+        "어브로드족": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "방학을 이용해 어학연수, 해외인턴쉽, 교환학생, 해외체험 프로그램 등 해외로 눈을 돌림"
+        },
+        "조삼모사": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "조금 모르면 삼 번 완전 모르면 사 번의 축약어/주로 시험기간의 학생들이 사용"
+        },
+        "아닥": {
+            "WordType": "속어",
+            "WordStructure": "축약어",
+            "WordDefine": "'아가리 닥쳐'의 줄임말"
+        }
+    },
+    {
+        "억까": {
+            "WordType": "유행어",
+            "WordStructure": "축약어",
+            "WordDefine": "대상을 비판, 비난하는 이유가 말도 안 되는 억지일 때 사용하는 말."
+        },
+        "꿀잼": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "‘꿀’과 ‘재미’의 합성어로, ‘매우 많이 재미있다’는 의미의 신조어."
+        },
+        "믿거": {
+            "WordType": "은어",
+            "WordStructure": "축약어",
+            "WordDefine": "믿고 거른다'의 약자"
+        },
+        "존버": {
+            "WordType": "속어",
+            "WordStructure": "축약어",
+            "WordDefine": "비속어'존나'+ '버티다'의 줄임말/끝까지 막연하게 버팀"
+        },
+        "무뇌충": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": "‘뇌가 없는 벌레’란 뜻으로, 머리가 텅 빈 사람을 빗대어 이르는 말. "
+        },
+        "슴가": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "우리말 '가슴'을 이르는 말. '가슴'의 음절을 뒤집어 표현한 말이다."
+        },
+        "에바": {
+            "WordType": "속어",
+            "WordStructure": "파생어",
+            "WordDefine": "요즘 신세대 사람들이 오바를 변형해서 말한 것이다. 약간 지나친 느낌."
+        },
+        "오지다": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "놀라거나 감탄할 때 사용하는 단어\""
+        },
+        "이생망": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "이번 생은 망했다'를 줄여 이르는 말 / 주로 젊은 층에서 자조적으로 쓴다."
+        },
+        "여친": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "여자친구의 줄임말"
+        },
+        "복세편살": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "복잡한 세상 편하게 살자의 준말"
+        },
+        "오키": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "오케이(Okay)'의 준말"
+        },
+        "쌉가능": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": " '완전' '매우' 등의 의미로 단어를 강조하는 접두어로 통용되는 쌉과 가능이라는 단어의 합성어로 완전 가능한 상태의 신조어"
+        },
+        "레게노": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "Legend'에서 파생 / 레전드를 뜻하는 인터넷 신조어. 초성으로 줄여 'ㄹㄱㄴ'라고 쓰이기도 한다."
+        },
+        "드립": {
+            "WordType": "줄임말",
+            "WordStructure": "파생어",
+            "WordDefine": "애드립(Ad lib)의 줄임말에서 유래한 한국?인터넷 은어로, 농담의 뉘앙스가 있는 즉흥적 발언을 일컫는다.?"
+        },
+        "무야호": {
+            "WordType": "유행어",
+            "WordStructure": "기타",
+            "WordDefine": "신난다'의 의미/ 예능 '무한도전'에서 유래된 말"
+        },
+        "반갈죽": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "반으로 갈라져서 죽어'의 줄임말이다. 주된 용법은 반으로 갈라진 물체 혹은 반으로 갈라져서 사망한 인물이 반갈죽당했다고 드립치는 데 쓰인다.\n 혹은 짜증과 분노를 유발하는 대상을 반갈죽시켜버린다는 등 일종의 욕설처럼 쓰이기도 한다."
+        },
+        "레알": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "REAL을 발음나는데로 읽은 표현 정말 진짜 라는 뜻을 더욱 강조하는 표현'"
+        },
+        "급식충": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": "각종 민폐와 비행을 저지르는 미성년자를 비하하는 말"
+        },
+        "헐": {
+            "WordType": "유행어",
+            "WordStructure": "기타",
+            "WordDefine": "주로 황당한 상황에 닥쳤을 때 하는 감탄사로 쓰인다. / \"황당할 때, 화가 날 때, 짜증 날 때 등 다양한 상황에 쓸 수 있는 표현"
+        },
+        "띵언": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "명언에서 파생된 단어/\"명언\"의 장조"
+        },
+        "노잼": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "무언가가 매우 재미없다는 의미의 인터넷 유행어. "
+        },
+        "말넘심": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "말이?너무(넘)?심하다의?줄임말이다."
+        },
+        "용케": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": " '용하다'의 활용형인 '용하게'의 준말"
+        },
+        "찌질이": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "소속된 집단에 잘 적응하지 못하고 겉도는 사람을 속되게 이르는 말."
+        },
+        "오지라퍼": {
+            "WordType": "속어",
+            "WordStructure": "파생어",
+            "WordDefine": "오지랖이 넓은 사람을 신조어로 '오지라퍼(오지랖+er)'라고 부르기도 한다."
+        }
+    },
+    {
+        "인스타": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "인스타그램(SNS)'의 줄임말"
+        },
+        "페북": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "페이스북(SNS)'의 줄임말. "
+        },
+        "팩폭": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": "팩트폭행의 줄임말 / 반박할수없는 진실로 상대에게 타격을 주다"
+        },
+        "댓망진창": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "댓글이 엉망진창이라는 의미로, ‘댓글’과 ‘엉망진창’이 합쳐져 만들어진 신조어이다."
+        },
+        "킹받는다": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": "열받는다' 의 '열'을 '킹'으로 바꿔 강조 표현"
+        },
+        "가계정": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "임시 계정"
+        },
+        "심쿵": {
+            "WordType": "유행어",
+            "WordStructure": "축약어",
+            "WordDefine": "심장에 쿵하고 충격이 왔다는 의미의 유행어/크게 호감을 느끼거나 마음이 동요했다는 의미로 사용되고 있다."
+        },
+        "프사": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "프로필'+'사진'을 축약시킨 단어/프로필을 표시할때 나타내는 이미지"
+        },
+        "만찢녀": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "‘만화를 찢고 나온 여자‘의 줄임말. / '허구의 만화 속 인물처럼 외모가 출중한 여자' 또는 '모든 것이 완벽한 여자'를 뜻한다."
+        },
+        "우귀체": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "우주에서 제일 귀여운 생명체의 준말"
+        },
+        "관심병": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": "?'타인에게 주목받고 싶어하는 정도가 심해 사람들의 관심을 과도하게 끄는 병'을 일컫는 신조어이다."
+        },
+        "죽빵": {
+            "WordType": "유행어",
+            "WordStructure": "기타",
+            "WordDefine": "상대방의 뺨을 손바닥이 아닌?주먹으로 치는 행위를 뜻한다."
+        },
+        "웃프다": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "웃기면서 슬프다"
+        },
+        "낫닝겐": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "영단어 ‘not’과 ‘인간’을 뜻하는 일본어 ‘닝겐(人間·にんげん·닌겐)’의 합성어. 그대로 직역해 ‘인간이 아니다’라는 뜻으로 쓰인다."
+        },
+        "어케": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "어떻게의 줄임말"
+        },
+        "정줄놓": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "정신줄을 놓았다를 줄인 말이며, 인터넷에서 어처구니없는 상황이나 정신나간 사람을 보면 많이 쓰는 표현이다."
+        },
+        "정뚝떨": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "정이 뚝 떨어지다'를 줄여 이르는 말. 어떤 일로 인하여 좋아하던 것에 갑자기 정이 없어질 때 쓴다."
+        },
+        "개실망하다": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "매우 실망하다의 줄임말"
+        },
+        "존나": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "매우~, 너무~, 엄청~ 등 의 뜻으로 대상, 혹은 감정을 강조할 때 쓰이는 한국어의 비속어."
+        },
+        "할많하않": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "할 말은 많지만 하지 않겠다'의 줄임말"
+        },
+        "심멎": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "심장이 멎을 만큼 멋지거나 아름답다.'"
+        },
+        "앗싸리": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "대체로 '차라리, 아예, 그냥'등의 단어와 비슷한 뜻으로 사용된다. 예) 그걸 살 바에야 앗싸리 이걸 두 개 사겠어! 어원은 일본어의 あっさり(깨끗이, 간단히, 시원스레, 선선히 등의 뜻)."
+        },
+        "싫존주의": {
+            "WordType": "줄임말",
+            "WordStructure": "혼성어",
+            "WordDefine": "불만이나 선호하지 않는 취향등을 당당하게 밝히는 현상/\"싫어하는것도 존중해달라\"는 뜻"
+        },
+        "인플루언서": {
+            "WordType": "은어",
+            "WordStructure": "기타",
+            "WordDefine": "타인에게 영향력을 끼치는 사람(Influence + er)이라는 뜻의 신조어"
+        },
+        "이생망": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "이번 생은 망했다'를 줄여 이르는 말 / 주로 젊은 층에서 자조적으로 쓴다."
+        },
+        "여사친": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "친구가 성별이 여자인 사람. / 이성이되 연인 관계는 결코 아닌 친구 관계를 여사친이라 부른다"
+        },
+        "카톡": {
+            "WordType": "유행어",
+            "WordStructure": "축약어",
+            "WordDefine": "주로 쓰는 메신저 앱인 카카오톡(kakao talk)의 준말"
+        },
+        "뽀샵": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "포토샵의 줄임말 / 컴퓨터 그래픽 편집 프로그램인 포토샵(photoshop)을 활용하여 리터치 한 사진을뽀샵한 사진이라고 부른다."
+        },
+        "금손": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "흔히 동인계에서 쓰이는 단어.\n 손재주나 그림실력이 뛰어나 높은 퀄리티의 창작물을 만드는 창작자를 일컫는 말로, 존잘, 굇수 같은 단어와도 의미가 상통한다"
+        },
+        "에바": {
+            "WordType": "속어",
+            "WordStructure": "파생어",
+            "WordDefine": "요즘 신세대 사람들이 오바를 변형해서 말한 것이다. 약간 지나친 느낌."
+        },
+        "울": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "우리'의 준말"
+        },
+        "배사": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": " ‘배경사진’의 줄임말.\n주로 카카오스토리, 페이스북 등의 SNS 배경사진을 가리킨다."
+        },
+        "개깜놀": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "매우 깜짝 놀라다의 강조표현"
+        },
+        "꽃길": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "어떤 사람에게 앞으로 좋은 일만 일어나기를 희망한다는 의미로 사용됨"
+        }
+    },
+    {
+        "졸라": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "매우~, 너무~, 엄청~ 등 의 뜻으로 대상, 혹은 감정을 강조할 때 쓰이는 한국어의 비속어."
+        },
+        "꿀맛": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "꿀+맛 / 꿀처럼 맛있다, 정말 맛있다 라는 뜻"
+        },
+        "넘나": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "너무나의 줄임말"
+        },
+        "처묵처묵": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "처먹다'?에서 파생됨?'음식을 게걸스럽게, 혹은 복스럽게 먹는 모습'?을 극단적으로 표현하는?의태어."
+        },
+        "개쩐다": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "매우 대단하다의 강조표현"
+        },
+        "어케": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "어떻게의 줄임말"
+        },
+        "존버": {
+            "WordType": "속어",
+            "WordStructure": "축약어",
+            "WordDefine": "비속어'존나'+ '버티다'의 줄임말/끝까지 막연하게 버팀"
+        },
+        "개꿀맛": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "개+꿀+맛 / 정말 맛있다의 강조 표현"
+        },
+        "헐": {
+            "WordType": "유행어",
+            "WordStructure": "기타",
+            "WordDefine": "주로 황당한 상황에 닥쳤을 때 하는 감탄사로 쓰인다. / \"황당할 때, 화가 날 때, 짜증 날 때 등 다양한 상황에 쓸 수 있는 표현"
+        },
+        "쩐다": {
+            "WordType": "속어",
+            "WordStructure": "파생어",
+            "WordDefine": "엄청나다, 죽여준다, 대박이다라는 긍정적으로 쓸수도 있으나 반대로 부정적인 의미로도 쓸 수 있다. 예를 들어 너무 어이없을 때나 황당할때 쓰기도 한다.\n절다에서 파생된 말로 '쩔다', '쩐다', '쩔어'등으로 사용된다."
+        },
+        "직딩": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "직장인'을 속되게 이르는 말."
+        },
+        "런치플레이션": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "점심(Lunch)+물가상승(Inflation) / 비싸진 점심값을 뜻하는 신조어"
+        },
+        "골때리다": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": "어처구니없이 행동하여 실소가 나오거나 골이 아플 지경이 되다. 젊은이들, 특히 학생들이 많이 쓰는 속어임."
+        },
+        "편도": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "편의점 도시락의 준말"
+        },
+        "열라": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "열나게의 줄임말"
+        },
+        "가성비": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "가격 대비 성능비'를 줄인말로써 지불한 가격에 비해 얼마나 성능(만족감)이 높은지를 의미하는 단어"
+        },
+        "오피스브런치족": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "브런치는 블랙퍼스트(Breakfast)와 런치(Lunch)의 합성어로 \n우리말로는 이른 점심식사 정도로 표현할 수 있는 단어. \n오피스브런치족은 그러한 브런치를 사무실에서 즐기는 직장인들을 이르는 말이다."
+        },
+        "워런치족": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "워킹(Walking)과 점심(Lunch)의 합성어 / 점심시간을 이용해 걷기 운동을 하는 직장인을 가리킨다."
+        },
+        "개소리": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": "개+소리, 헛소리"
+        },
+        "넘": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "너무'의 준말"
+        },
+        "맛점": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "맛있는 점심의 줄임말"
+        },
+        "피맥": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "피자와 맥주를 함께 먹는 것"
+        },
+        "김떡순": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "김밥 떡볶이 순대"
+        },
+        "개어이없다": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "어이없다의 강조 표현"
+        },
+        "혼밥": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "혼자서 밥을 먹는 행위"
+        },
+        "혼술": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "혼자 술을 마시는 행위"
+        },
+        "오케바리": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "한국인이 자주쓰는 일본말. 이 오케바리는 일본어의 'おきまり(오키마리)' 에서 온 것으로 오키마리란 '결정'이란 의미로,\n 식당 같은 곳에서 음식주문을 받는다던지 할 때 '오키마리 데스까?' 라고 하면 '결정하셨습니까?' 라는 뜻으로 쓰이는 것인데 어쩌다 와전되어 오케바리가 된것이다."
+        }
+    },
+    {
+        "남소": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "남자 소개'의 준말"
+        },
+        "저메추": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "저녁 메뉴 추천"
+        },
+        "꾸안꾸": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "꾸민듯 안 꾸민듯, 자연스러운 스타일"
+        },
+        "꾸꾸꾸": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "꾸민듯 꾸민듯 꾸밈, 꾸안꾸의 반대 / 꾸며도 꾸질꾸질"
+        },
+        "에바": {
+            "WordType": "속어",
+            "WordStructure": "파생어",
+            "WordDefine": "요즘 신세대 사람들이 오바를 변형해서 말한 것이다. 약간 지나친 느낌."
+        },
+        "심쿵": {
+            "WordType": "유행어",
+            "WordStructure": "축약어",
+            "WordDefine": "심장에 쿵하고 충격이 왔다는 의미의 유행어/크게 호감을 느끼거나 마음이 동요했다는 의미로 사용되고 있다."
+        },
+        "차도녀": {
+            "WordType": "은어",
+            "WordStructure": "축약어",
+            "WordDefine": "차가운 도시 여자, 남자의 준말로 겉모습은 차갑고 도도해 보이지만 자신의 이성에게는 헌신적이고 따뜻한 여자"
+        },
+        "따도녀": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "따듯한 도시 여자의 준말 / 자기 남자에게만 따뜻한 모습으로도 표현"
+        },
+        "밀당": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "‘밀고 당기기’의 줄임말.\n주로 연인이나 서로 호감을 가지고 있는 사이에서 벌어지는 심리 싸움의 뜻으로 많이 쓰인다.\n줄다리기에 빗대어 표현한 것으로, 좋아하는 것처럼 보이는 행동이 당기는 것에 해당하고,\n무관심하게 행동하는 것이 미는 것에 해당한다."
+        },
+        "티키타카": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "대화의 합이 잘 맞아 주고받기가 잘 되는 것"
+        },
+        "모솔": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "모태솔로는 아직 연애경험이 없는 남녀를 가리키는 인터넷 한물 간 언어이다. \n어원은 어머니 몸에 나온 뜻의 모태(母胎)와 독신을 뜻하는 솔로가 합쳐진 말"
+        },
+        "만찢남": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "‘만화를 찢고 나온 남자‘의 줄임말. / '허구의 만화 속 인물처럼 외모가 출중한 남자' 또는 '모든 것이 완벽한 남자'를 뜻한다."
+        },
+        "만찢녀": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "‘만화를 찢고 나온 여자‘의 줄임말. / '허구의 만화 속 인물처럼 외모가 출중한 여자' 또는 '모든 것이 완벽한 여자'를 뜻한다."
+        },
+        "비담": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "비주얼 담당의 줄임말"
+        },
+        "만찢커플": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "‘만화를 찢고 나온 커플‘의 줄임말./ '허구의 만화 속 인물처럼 외모가 출중한 커플' 또는 '모든 것이 완벽한 커플'을 뜻한다. "
+        },
+        "극혐": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "극도로 혐오한다는 말의 신조어"
+        },
+        "에프터": {
+            "WordType": "유행어",
+            "WordStructure": "기타",
+            "WordDefine": " 소개팅하고 두번째 만나는거"
+        },
+        "금사빠": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "금방 사랑에 빠진다'의 줄임말/ 그러한 상태 혹은 인물을 가리키는 축약어이자 신조어"
+        },
+        "썸": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "연인 관계는 아니지만 서로 사귀는 듯이 가까이 지내는 미묘한 관계"
+        },
+        "자만추": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "자연스러운 만남 추구'의 줄임말"
+        },
+        "개부럽다": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "완전 부럽다의 강조 표현"
+        },
+        "남친": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "남자친구의 줄임말"
+        },
+        "우유남": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "우월한 유전자 남자'의 줄임말"
+        },
+        "따도남": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "따듯한 도시 남자의 준말 / 자기 여자에게만 따뜻한 모습으로도 표현"
+        },
+        "존예": {
+            "WordType": "속어",
+            "WordStructure": "축약어",
+            "WordDefine": "존나 예쁘다'의 줄임말로 쓰이는 비속어"
+        },
+        "존멋": {
+            "WordType": "속어",
+            "WordStructure": "축약어",
+            "WordDefine": "존나 멋있다'의 준말"
+        },
+        "남친룩": {
+            "WordType": "줄임말",
+            "WordStructure": "혼성어",
+            "WordDefine": "남자친구가 입는 옷, 또는 남자친구가 입어주었으면 하거나 입혀주고 싶은 스타일을 의미한다."
+        },
+        "첨": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "처음'의 준말"
+        },
+        "어장관리": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": "이성에게 접근했다가 멀어지기를 반복하면서 궁극적으로 대상 이성이 자기에게서 벗어나지 못하게 하는 행위를 뜻한다."
+        },
+        "완소남": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": " 완전히 소중한 남자."
+        },
+        "당나귀": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "당신은 나의 귀염둥이의 줄임말"
+        },
+        "그린라이트": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "상대방이 자신에게 호감이 있는 것이 맞으니 대시해도 된다'는 표현.\n2013년 TV프로그램 마녀사냥에서 사용되면서 점차 국내에 유행하기 시작했다. "
+        }
+    },
+    {
+        "오지다": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "놀라거나 감탄할 때 사용하는 단어\""
+        },
+        "머가리": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "대가리'의 야민정음 표현 /  대<->머"
+        },
+        "노잼": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "무언가가 매우 재미없다는 의미의 인터넷 유행어. "
+        },
+        "레알": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "REAL을 발음나는데로 읽은 표현 정말 진짜 라는 뜻을 더욱 강조하는 표현'"
+        },
+        "복세편살": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "복잡한 세상 편하게 살자의 준말"
+        },
+        "열라": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "열나게의 줄임말"
+        },
+        "알바": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "아르바이트'의 줄임말"
+        },
+        "인싸": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "‘인사이더’라는 뜻으로, 각종 행사나 모임에 적극적으로 참여하면서 사람들과 잘 어울려 지내는 사람을 이르는 말. ‘인사이더’를 세게 발음하면서 다소 변형한 형태로 표기한 것"
+        },
+        "아싸": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "영어 아웃사이더(outsider)를 줄인 말로 여러 사람들과 잘 어울리지 못하는 사람들을 일컫는 말"
+        },
+        "유잼": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "有(있을 유)잼으로 큰 재미가 있다는 의미"
+        },
+        "유리멘탈": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "유리처럼?깨지기 쉬운?멘탈'의 준말. 작은 일에도?쉽게 마음의 상처를 받는 사람들을 이르는 말이다."
+        },
+        "감튀": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "감자튀김의 줄임말"
+        },
+        "겉바속촉": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "겉은 바삭하게 속은 촉촉하게"
+        },
+        "댕청이": {
+            "WordType": "속어",
+            "WordStructure": "파생어",
+            "WordDefine": "멍청이를 의미하며,‘멍’ 자를 그 모양이 비슷한 ‘댕’ 자로 바꿔 표기한 것"
+        },
+        "존잼": {
+            "WordType": "속어",
+            "WordStructure": "축약어",
+            "WordDefine": "존나 재밌다'의 준말 / 매우 재밌다 라는 표현을 속되게 이르는 말"
+        },
+        "뭥미": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "뭐냐의 통신체였던 \"뭐임\"의 오타에서 유래한 오타체"
+        },
+        "헬게이트": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": "마치?지옥?문이 열린듯 끔찍하고 혼란스럽게 되어버린 상황을 칭하는 단어."
+        },
+        "아아": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "아이스 아메리카노"
+        },
+        "손놈": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": "손+놈의 합성어 / 무례한 손님을 낮잡아 이르는 말. "
+        },
+        "현타": {
+            "WordType": "유행어",
+            "WordStructure": "축약어",
+            "WordDefine": "현실자각타임'을 줄인말/무언가를 집중해서 열정적으로 행동하고 난 뒤 갑자기 그 일을 후회하거나 수치스러워 함"
+        },
+        "따도남": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "따듯한 도시 남자의 준말 / 자기 여자에게만 따뜻한 모습으로도 표현"
+        },
+        "따도녀": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "따듯한 도시 여자의 준말 / 자기 남자에게만 따뜻한 모습으로도 표현"
+        },
+        "킹정": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "킹정'은 'king'과 '인정'을 합친 신조어이다"
+        }
+    },
+    {
+        "노맛": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "No+맛 의 합성어 / '맛이 없다'라는 뜼"
+        },
+        "뱀": {
+            "WordType": "은어",
+            "WordStructure": "기타",
+            "WordDefine": "병장을 짧게 부르는 말. "
+        },
+        "일말상초": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": " 일병 말에서 상병 초반에(즉 군대 들어온 지 대략 8~11개월쯤에) \n사회에 두고 온 교제 중인 연인과 헤어질 위기에 처할 가능성이 높다."
+        },
+        "여친": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "여자친구의 줄임말"
+        },
+        "싸지방": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "사이버 지식 정보방의 준말."
+        },
+        "풀창": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "영창 징계를 최대치인 14박 15일 갔다오는 것. \n주로 구타 및 가혹행위나 하극상, 성군기 위반 등이 대부분. '풀창'이라고도 한다."
+        },
+        "긁다": {
+            "WordType": "은어",
+            "WordStructure": "기타",
+            "WordDefine": "군대은어 / 군대 내에 있는 '마음의 편지'로 부조리를 고발하는것"
+        },
+        "존나": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "매우~, 너무~, 엄청~ 등 의 뜻으로 대상, 혹은 감정을 강조할 때 쓰이는 한국어의 비속어."
+        },
+        "하이바": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "방탄헬멧'의 (fiber helmet) 일본식 준말을 일컫는 말.'"
+        },
+        "개짜증": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "매우 짜증난다의 강조 표현"
+        },
+        "가스": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "후임들에게 거는 제재,통제등을 의미. '가스를 건다'로 활용함."
+        },
+        "싸제": {
+            "WordType": "은어",
+            "WordStructure": "축약어",
+            "WordDefine": "(은어) 군용품이 아닌 외부용품"
+        },
+        "뽀글이": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "(은어) 라면 등을 냄비에 끓이지 않고 봉지째로 뜨거운 물을 넣고 익혀서 먹는 방식.또는 그 형태"
+        },
+        "팅커벨": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "(은어) 간혹 근무지에서 볼 수 있는 몸길이가 10cm를 넘어가는 거대한 나방을 일컫는 말"
+        },
+        "이등별": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "이등병들을 함부로 대하지 않는다는 의미"
+        },
+        "킹받는다": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": "열받는다' 의 '열'을 '킹'으로 바꿔 강조 표현"
+        },
+        "짬때리다": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": "일을 다른 사람에게 떠 넘기는 것을 속된 말로 표현"
+        },
+        "짬바": {
+            "WordType": "유행어",
+            "WordStructure": "축약어",
+            "WordDefine": "짬에서 나오는 바이브' 의 줄임말로 오랜 경험이나 연륜으로 여유, 노련미를 표현할 때 쓰는 말이다."
+        },
+        "개공감": {
+            "WordType": "유행어",
+            "WordStructure": "혼성어",
+            "WordDefine": "매우 공감한다의 강조표현"
+        },
+        "핵공감": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "크다 라는 의미를 가지고 있는 '핵'+'공감'의 합성어 / '크게 공감한다' 라는 의미를 가지고 있다"
+        },
+        "오키": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "오케이(Okay)'의 준말"
+        }
+    },
+    {
+        "덕질": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "한 분야에 열중하여 그와 관련된 것들을 모으거나 관련 활동을 하는 것."
+        },
+        "네다씹": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "네 다음 씹덕후'의 줄임말\n상관 없는 게시판에 게시글로 서브컬쳐요소(애니메이션 미소녀 캐릭터, 게임 미소녀 캐릭터, 만화 미소녀 캐릭터)와 같은 사진을 올렸을 때 주로 사용됨"
+        },
+        "여돌": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "여자 아이돌의 줄임말"
+        },
+        "남돌": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "남자 아이돌의 줄임말"
+        },
+        "걸크러쉬": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "여성이 여성에게 환호하고 적극적으로 지지하는 마음이나 그러한 현상으로 쓰이는 단어를 의미"
+        },
+        "손민수": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "누군가를 따라하는 것을 이르는 말(행동, 말투, 패션, 소비 등) / 웹툰 '치즈인더트랩 '손민수'에서 비롯됨"
+        },
+        "해연": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "해외 연예인의 줄임말"
+        },
+        "페북스타": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "페이스북+스타' \n페이스북에서 유명한 사람들을 의미하며,\n 기존의 연예인이나 유명인이 아니라 페이스북 내에서 여러가지 기능(그룹,페이지,생방송 등) 등을 이용하여, 많은 좋아요/팔로어와 파급력을 가지게 된 사람들을 이야기한다."
+        },
+        "인플루언서": {
+            "WordType": "은어",
+            "WordStructure": "기타",
+            "WordDefine": "타인에게 영향력을 끼치는 사람(Influence + er)이라는 뜻의 신조어"
+        },
+        "평타치": {
+            "WordType": "줄임말",
+            "WordStructure": "혼성어",
+            "WordDefine": "게임용어인 '평타'를 활용한 용어로 '평균은 한다' 라는 뜻"
+        },
+        "솔삐": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "솔직히라는 의미로 사용되며 사투리의 변형이라는 설도 있으나 아직 정확한 어원은 알려진 바가 없다. \n예) 아 시험 끝나니까 솔삐 맘편하다."
+        },
+        "힘숨찐": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "힘을 숨긴 찐따'/'겉으로 보기에 별 볼일 없는인물이 알고보면 강한힘을 가졌다'의 줄임말"
+        },
+        "킹정": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "킹정'은 'king'과 '인정'을 합친 신조어이다"
+        },
+        "겟레디윗미": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "해외 유튜버들이 사용한 뒤 국내 유튜버들까지 빈번하게 사용되고 있는 신조어.\n스킨케어부터 메이크업, 옷 입는 것까지 자신의 준비 과정을 보여줄 때를 표현하는 신조어."
+        },
+        "떡상": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "떡칠'을 의미하는 '떡'과 물건의 값이나 주가 등이 갑자기 큰 폭으로 오르는 것을 의미하는 '급상승'을 합쳐 만든 단어"
+        },
+        "오케바리": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "한국인이 자주쓰는 일본말. 이 오케바리는 일본어의 'おきまり(오키마리)' 에서 온 것으로 오키마리란 '결정'이란 의미로,\n 식당 같은 곳에서 음식주문을 받는다던지 할 때 '오키마리 데스까?' 라고 하면 '결정하셨습니까?' 라는 뜻으로 쓰이는 것인데 어쩌다 와전되어 오케바리가 된것이다."
+        },
+        "가슴이웅장해진다": {
+            "WordType": "유행어",
+            "WordStructure": "기타",
+            "WordDefine": "가슴이 벅차오른다"
+        },
+        "과몰입충": {
+            "WordType": "속어",
+            "WordStructure": "파생어",
+            "WordDefine": "필요 이상으로 과도하게 몰입하는 경우에 사용되는 파생어이다. \n자기 자신에게 거의 영향이 가지 않는 일, 또는 타인에게 지나치게 감정을 몰입하는 상황을 나타내는 데 사용되기도 한다.\n혹은 본인의 일이라도 대다수의 사람들이 봤을 때 별 것 아닌 일에 과한 반응을 보일 때도 사용된다."
+        },
+        "개이득": {
+            "WordType": "속어",
+            "WordStructure": "파생어",
+            "WordDefine": "정말로라는 뜻으로도 쓰이는 접두사 개-와 이득이 함께 쓰인 파생어/ \"완전이득\"의 강조"
+        },
+        "뽀찌": {
+            "WordType": "은어",
+            "WordStructure": "기타",
+            "WordDefine": " 게임으로 딴 돈 중 일부를 조금 나눠주는 것을 말하는 은어"
+        },
+        "오키": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "오케이(Okay)'의 준말"
+        },
+        "꽃길": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "어떤 사람에게 앞으로 좋은 일만 일어나기를 희망한다는 의미로 사용됨"
+        },
+        "돌판": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "아이돌판의 줄임말"
+        },
+        "레알": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "REAL을 발음나는데로 읽은 표현 정말 진짜 라는 뜻을 더욱 강조하는 표현'"
+        },
+        "칭구칭긔": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "SNS에서 '친구'를 귀엽게 이르는 말."
+        },
+        "커엽다": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "귀엽다'에서 파생된 단어/'귀엽다'의 강조"
+        },
+        "주작": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "?'조작'의 모음을 바꿔 2번 문단과 연관시킨 것.?"
+        }
+    },
+    {
+        "쌤": {
+            "WordType": "줄임말",
+            "WordStructure": "파생어",
+            "WordDefine": "선생님(교사, 강사 등)을 줄여 부르는 말. 학생들끼리도 선생님을 부를 때 은어로 많이 쓰인다.\n 하지만 꼭 교사나 강사를 줄여 부르는 말이라기 보다는 특정 직업을 가진 사람들끼리 사람의 이름 뒤에도 붙일 수 있다. \n연구원 등 직급끼리도 쌤이라 부르는 사람들도 있다."
+        },
+        "개짜증": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "매우 짜증난다의 강조 표현"
+        },
+        "군바리": {
+            "WordType": "속어",
+            "WordStructure": "파생어",
+            "WordDefine": "군인'을 속되게 이르는 말"
+        },
+        "개구리": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "(은어) 과거 얼룩 무늬 군복을 일컫는 말."
+        },
+        "군대리아": {
+            "WordType": "줄임말",
+            "WordStructure": "혼성어",
+            "WordDefine": "군대 와 롯데리아를 결합시켜 탄생했다. 군대에서 일주일에 1.2번 나오는 특식."
+        },
+        "까리하다": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "학생들 사이에서 어떤 것이?멋있다는 뜻으로 사용되는?속어."
+        },
+        "워라밸": {
+            "WordType": "줄임말",
+            "WordStructure": "혼성어",
+            "WordDefine": "워크(work) & 라이프(life)+밸런스(balance)를 합친 단어/직장인들 사이에서 주로 쓰임/\"일과 생활의 균형\""
+        },
+        "갓수": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "갓(God) + 백수"
+        },
+        "돌취생": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "돌아온 취업준비생의 준말"
+        },
+        "헬게이트": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": "마치?지옥?문이 열린듯 끔찍하고 혼란스럽게 되어버린 상황을 칭하는 단어."
+        },
+        "데꼬보꼬": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": " 주로 요소의 배치, 크기 등에 대비를 줄 때 사용한다. / 일반적으로 '평평하지 못하다''울퉁불퉁''매끄럽지 못하다''들쭉날쭉하다 "
+        },
+        "없그레이드": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "상황이 전보다 더 나빠졌을 때 주로 쓰는 말/업그레이드 한 게 안한것보다 못하다."
+        },
+        "아봉": {
+            "WordType": "속어",
+            "WordStructure": "축약어",
+            "WordDefine": "아가리 봉인의 줄임말. 예) 아 쟤 시끄러 죽겠네 아봉시켜버릴라."
+        },
+        "찐텐": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "진짜를 뜻하는 '찐'과 '텐션'이 합쳐진 말 / 거짓이나 꾸밈 없는 진짜 기분 상태를 말하는 것"
+        },
+        "나홀로서울족": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "지방에서 상경하여 서울에서 자취하는 구직자"
+        },
+        "이태백": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "이십 대 태반이 백수'의 줄임말"
+        },
+        "고진감래": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "고용해 주셔서 진짜 감사한데, 집에 갈래'의 줄임말"
+        },
+        "시월드": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "시댁 혹은 \"시집살이\"를 나타내는 대한민국의 인터넷 신조어"
+        },
+        "스불재": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "스스로 불러온 재앙의 줄임말"
+        },
+        "듣보잡": {
+            "WordType": "속어",
+            "WordStructure": "축약어",
+            "WordDefine": "듣도 보도 못한 잡놈(또는 잡것)'?의 줄임말."
+        },
+        "개고생": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "매우 고생이다의 강조표현 "
+        },
+        "넘사벽": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "넘을 수 없는 사차원의 벽'이라는 뜻으로, 매우 뛰어나서 아무리 노력해도 따라잡을 수 없거나 대적할 만한 상대가 없음을 이르는 말."
+        },
+        "내돈내산": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "내 돈?주고?내가?산?물건을 줄여 부르는?신조어."
+        },
+        "닥본사": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "닥치고 본방 사수의 줄임말. / 그 프로그램은 재미있으니 잔소리 하지말고 제시간에 방송을 시청하라는 뜻이다."
+        },
+        "베프": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "베스트 프렌드의 줄임말"
+        },
+        "오륙도": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "56세까지 직장에 있으면 도둑이라는 뜻으로 정년을 채우지 못하는 50대"
+        },
+        "열일하다": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "열심히 일하다의 줄임말"
+        }
+    },
+    {
+        "딸램": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "딸래미의 줄임말"
+        },
+        "당근": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "재미있게 말하거나 강조하여 말할 때, '당연하다'의 뜻으로 쓰는 말"
+        },
+        "골때리다": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": "어처구니없이 행동하여 실소가 나오거나 골이 아플 지경이 되다. 젊은이들, 특히 학생들이 많이 쓰는 속어임."
+        },
+        "초딩": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "모바일이나 인터넷상에서, `초등학생'을 이르는 말."
+        },
+        "실화냐": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "정말이냐'의 강조 표현"
+        },
+        "에바참치": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": "과하다', '넘치다'라는 뜻의 신조어 '에바'에 뜬금없는 '참치'를 붙여 '어이없음'의 의미를 강조하는 말"
+        },
+        "슈발": {
+            "WordType": "속어",
+            "WordStructure": "파생어",
+            "WordDefine": "시발의 발음을 부드럽게 한것. 시발의 귀여운 표현이라고 통용된다"
+        },
+        "짠테크": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "짜다+제테크'의 합성어 / 절약을 통해 투자를 위한 종잣돈을 모으는 방식을 뜻함"
+        },
+        "올인": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "올인(all in)은 여러 가지 의미가 있지만 도박에서 자기가 가진 것을 모두 건다는 뜻이다."
+        },
+        "우귀체": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "우주에서 제일 귀여운 생명체의 준말"
+        },
+        "에바": {
+            "WordType": "속어",
+            "WordStructure": "파생어",
+            "WordDefine": "요즘 신세대 사람들이 오바를 변형해서 말한 것이다. 약간 지나친 느낌."
+        },
+        "케바케": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "케이스 바이 케이스(case by case)'를 줄인말/경우에 따라 다름을 이르는 말"
+        },
+        "서마터폰중독": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "부산사투리로 \"스마트폰 중독\"을 발음한 것이다."
+        },
+        "스몸비": {
+            "WordType": "줄임말",
+            "WordStructure": "혼성어",
+            "WordDefine": "스마트폰과 좀비의 합성어로 길을 걸어 다닐 때도 스마트폰을 보며 걷는 사람을 지칭하는 단어이다."
+        },
+        "졸라": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "매우~, 너무~, 엄청~ 등 의 뜻으로 대상, 혹은 감정을 강조할 때 쓰이는 한국어의 비속어."
+        },
+        "쌉파서블": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": "밀레니얼 세대들이 자신의 기분·상태를 표현하는 ‘쌉’과 영어 ‘가능한(possible)’의 합성어로, ‘매우 가능하다’는 뜻의 신조어다."
+        },
+        "신기방기": {
+            "WordType": "유행어",
+            "WordStructure": "기타",
+            "WordDefine": "믿을 수 없을 정도로 매우 색다르고 놀랍다. / 어원을 확인하기 어려운 표현"
+        },
+        "솔삐": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "솔직히라는 의미로 사용되며 사투리의 변형이라는 설도 있으나 아직 정확한 어원은 알려진 바가 없다. \n예) 아 시험 끝나니까 솔삐 맘편하다."
+        },
+        "쓸고퀄": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "쓸‘쓸데없이 고(高) 퀄리티’의 준말.\n말 그대로 불필요한 상황이나, 아무것도 아닌 상황에서\n상당한 노력을 기울이거나 능력을 발휘하여 높은 퀄리티의 결과물을 내놓았을 때 쓰인다."
+        },
+        "카푸어": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "자신이 현재 보유하고 있는 자산, 월 소득 수준에 비해서 무리하게 차량을 운행하는 사람들을?뜻함"
+        },
+        "악플러": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": " 악성 댓글을 다는 사람을 악플러(←악플+er)라고도 한다."
+        },
+        "조낸": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "정말 매우 진짜 굉장히 라는 뜻으로 비속어인 '존나' 와 같은 표현"
+        },
+        "억까": {
+            "WordType": "유행어",
+            "WordStructure": "축약어",
+            "WordDefine": "대상을 비판, 비난하는 이유가 말도 안 되는 억지일 때 사용하는 말."
+        },
+        "아들램": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "아들래미의 줄임말"
+        },
+        "고딩": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "모바일이나 인터넷상에서, `고등학생'을 이르는 말."
+        },
+        "낼": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "'내일' 의 준말 "
+        },
+        "셤": {
+            "WordType": "줄임말",
+            "WordStructure": "파생어",
+            "WordDefine": "시험의 준말."
+        },
+        "생선": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "생일 선물'의 줄임말"
+        },
+        "앗싸리": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "대체로 '차라리, 아예, 그냥'등의 단어와 비슷한 뜻으로 사용된다. 예) 그걸 살 바에야 앗싸리 이걸 두 개 사겠어! 어원은 일본어의 あっさり(깨끗이, 간단히, 시원스레, 선선히 등의 뜻)."
+        },
+        "저렴이": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "저렴하면서 가성비 좋은 제품을 뜻함"
+        }
+    },
+    {
+        "셤": {
+            "WordType": "줄임말",
+            "WordStructure": "파생어",
+            "WordDefine": "시험의 준말."
+        },
+        "개어이없다": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "어이없다의 강조 표현"
+        },
+        "돌취생": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "돌아온 취업준비생의 준말"
+        },
+        "갓수": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "갓(God) + 백수"
+        },
+        "콩가루집안": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": "여러 가지 이유로 도덕적으로 매우 바람직하지 않은?가족을 말한다."
+        },
+        "기러기아빠": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "명절이나 휴가 등 1년에 한 두 번 가족을 만나러 가는 외로운 아빠"
+        },
+        "딸램": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "딸래미의 줄임말"
+        },
+        "아들램": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "아들래미의 줄임말"
+        },
+        "알바": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "아르바이트'의 줄임말"
+        },
+        "등골브레이커": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "등골 + 브레이커(Breaker) \n구매자(주로 부모) 등골이 휠 정도로 부담이 가는 비싼 상품 또는 그 상품을 사달라고 조르는 수취자(주로 자녀)를 일컫는 인터넷 유행어"
+        },
+        "타이거맘": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "엄격한 스파르타식 교육을 시키는 호랑이 엄마"
+        },
+        "대빵": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "우두머리’를 속되게 이르는 말"
+        },
+        "딸바보": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "딸을 챙기고 딸만 아끼는 바보 같다는 뜻"
+        },
+        "엄카": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "엄마 카드의 준말"
+        },
+        "지름신": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "신제품이나 마음에 드는 물건을 보면 일단 사도록 부추기는 가상의 신을 일컬음"
+        },
+        "텅장": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "텅 빈 통장/잔액이 거의 없는 통장을 뜻함"
+        },
+        "펭귄아빠": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "비행기 값이 없어 가족을 보러 갈 수 없는 아빠"
+        },
+        "참새아빠": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "해외로 유학 보낼 형편이 되지 않아 아내와 자식만 강남으로 유학 보낸 아빠"
+        },
+        "독수리아빠": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "재력이 든든해 가족이 보고 싶을 때 언제든지 갈 수 있는 아빠"
+        },
+        "웃프다": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "웃기면서 슬프다"
+        },
+        "안습": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "안구에 습기차다의 줄임말 / 눈물이 흐른다 혹은 그럴 정도이다는 의미"
+        },
+        "시월드": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "시댁 혹은 \"시집살이\"를 나타내는 대한민국의 인터넷 신조어"
+        },
+        "우래기": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "우리 아기라는 단어로부터 파생됨"
+        },
+        "애유엄브": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "애는 유치원에 보내고 엄마들끼리 브런치를 먹다'를 줄여 이르는 말.\n아침에 아이를 유치원에 보내고 난 뒤에 엄마들끼리 여유롭게 즐기는 식사를 이른다."
+        },
+        "카페맘": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": " 특정장소에서 만나 교육정보를 나누는 엄마들을 말함 / '아카데미맘'과 같은 의미"
+        },
+        "아카데미맘": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": " 특정장소에서 만나 교육정보를 나누는 엄마들을 말함 / '카페맘'과 같은의미"
+        },
+        "졸라": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "매우~, 너무~, 엄청~ 등 의 뜻으로 대상, 혹은 감정을 강조할 때 쓰이는 한국어의 비속어."
+        },
+        "무지개매너": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "무지하게 매너가 없는 사람'의 준말 / 매우 매너가 없는사람을 뜻한다"
+        },
+        "노답": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "노답' (No+답) / 답이 없다는 뜻"
+        },
+        "용케": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": " '용하다'의 활용형인 '용하게'의 준말"
+        }
+    },
+    {
+        "북어": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "퇴직 당하지 않으려고 발버둥치고 남아 있다가 결국 퇴직금이나 위로금도 못받고 쫓겨난 사람"
+        },
+        "회방남": {
+            "WordType": "은어",
+            "WordStructure": "기타",
+            "WordDefine": "회사 방침을 철저히 따르는 남자"
+        },
+        "넌씨눈": {
+            "WordType": "속어",
+            "WordStructure": "축약어",
+            "WordDefine": "사회, 학교 등 일상생활에서 분위기나 상황을 파악하지 못하고 엉뚱한 언행을 하는 사람을 비하하는 표현.\n'넌 씨발 눈치도 없냐' 의 축약어"
+        },
+        "히뜩하다": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "그동안 찾아보기 어려웠던 신박한 아이디어를 지칭하는 말"
+        },
+        "십장생": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "십대들도 장차 백수가 되는 것을 생각해야 한다'의 줄임말"
+        },
+        "나토족": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "말만하고 행동은 하지 않는 유형의 직장인"
+        },
+        "반퇴세대": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "조기퇴직 후 경제활동을 지속하는 세대를 뜻함"
+        },
+        "직딩": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "직장인'을 속되게 이르는 말."
+        },
+        "워라밸": {
+            "WordType": "줄임말",
+            "WordStructure": "혼성어",
+            "WordDefine": "워크(work) & 라이프(life)+밸런스(balance)를 합친 단어/직장인들 사이에서 주로 쓰임/\"일과 생활의 균형\""
+        },
+        "이구백": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "이십대 90%가 백수'의 줄임말"
+        },
+        "귀차니즘": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "1. 귀찮-이라는 국어 형용사 어간을 어근 삼아 영어 접미사 \"-ism\"을 붙여서 만든?신조어.?\r\n2. 게으름,귀찮음 "
+        },
+        "꼰대": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "늙은이', '선생님'을 속되게 이르는 말 "
+        },
+        "주잘알": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "주식 잘 아는 사람'의 준말"
+        },
+        "주린이": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "주식+어린이/\"주식\"에 초보자를 뜻하는 \"어린이\"를 합성한 단어"
+        },
+        "철수저": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "세번째로 낮은 등급의 금속 수저로, 한국에서는 중산층 자제 이상을 제외한 서민층 자제를 뜻하며, 앞에 있는 흙수저, 플라스틱수저보다 높고 평범을 상징하는 대표적인 말이다. "
+        },
+        "타조세대": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "노후생활에 대한 불안에 시달리면서도 마땅한 대책이 없어 자포자기 상태에 빠진 이들을 칭함 / 맹수가 다가오면 머리만 모래 속에 파묻는 타조에 비유"
+        },
+        "뽐뿌": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "영어 '펌프(Pump)'를 일본식 발음으로 읽은것으로 마음속에서 올라오는 충동적인 구매욕구를 말한다."
+        },
+        "벼락거지": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "벼락부자'에서 파생 / 가만히 있었는데 날벼락을 맞아 거지가 된 것을 이르는 말.\n한순간에 벼락처럼 갑작스레 거지가 되었다.\n 벼락부자에 대응되는 단어이다."
+        },
+        "떡상": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "떡칠'을 의미하는 '떡'과 물건의 값이나 주가 등이 갑자기 큰 폭으로 오르는 것을 의미하는 '급상승'을 합쳐 만든 단어"
+        },
+        "바닥": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "가격이 더 이상 떨어지기 어려운 아주 낮은 금액을 뜻함"
+        },
+        "리또속": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "리플에게 또 속았다의 준말"
+        },
+        "다이아몬드수저": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "다이아몬드+수저의 합성어 / 대한민국 상위 0.1% 이내에 드는 갑부나 재벌 가문의 자제를 일컫는다."
+        },
+        "쌉소름": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "완전 소름이라는 뜻"
+        },
+        "오피스빌런": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "Office(사무실)'+Villain(악역)의 합성어 / 사내에서 민폐를 끼치는 직원이나 직원들에게 나쁜말만 해대는 상사를 뜻함"
+        },
+        "갑통알": {
+            "WordType": "은어",
+            "WordStructure": "축약어",
+            "WordDefine": "갑자기 통장을 보니 알바를 해야겠다"
+        },
+        "금융치료": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "금융+ 치료 / 돈으로 감정이나 마음을 치료한다는 뜻을 지닌 신조어"
+        },
+        "먼솔": {
+            "WordType": "유행어",
+            "WordStructure": "축약어",
+            "WordDefine": "무슨 소리'를 뜻하는 준말이자 유행어"
+        }
+    },
+    {
+        "식집사": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "식물과 집사의 합성어로 반려 식물을 기르는 사람을 일컫는다. 고양이를 키우는 사람을 뜻하는 '집사'에서 유래된 것으로 식물을 가족같이 돌보며 애정을 쏟는 사람들을 표현하는 말이다"
+        },
+        "졸라": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "매우~, 너무~, 엄청~ 등 의 뜻으로 대상, 혹은 감정을 강조할 때 쓰이는 한국어의 비속어."
+        },
+        "울": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "우리'의 준말"
+        },
+        "인프라": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "인프라스트럭처(Infrastructure)의 준말 / 경제활동의 기반을 형성하는 기초적인 시설을 말함."
+        },
+        "헐": {
+            "WordType": "유행어",
+            "WordStructure": "기타",
+            "WordDefine": "주로 황당한 상황에 닥쳤을 때 하는 감탄사로 쓰인다. / \"황당할 때, 화가 날 때, 짜증 날 때 등 다양한 상황에 쓸 수 있는 표현"
+        },
+        "공세권": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "공원(park)+역세권의 합성어"
+        },
+        "도세권": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "도서관+역세권\"의 합성어 / 도서관이 가까운 거리에 있는 곳"
+        },
+        "몰세권": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "몰(Mall)+역세권으로 편리하게 문화생활을 즐길 수 있는 지역을 뜻함"
+        },
+        "조낸": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "정말 매우 진짜 굉장히 라는 뜻으로 비속어인 '존나' 와 같은 표현"
+        },
+        "당근": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "재미있게 말하거나 강조하여 말할 때, '당연하다'의 뜻으로 쓰는 말"
+        },
+        "첨": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "처음'의 준말"
+        },
+        "욕세권": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "처음에는 욕을 먹었으나 나중에는 인근지역에서 가장 선호하는 단지가 된다라는 뜻"
+        },
+        "대따": {
+            "WordType": "은어",
+            "WordStructure": "기타",
+            "WordDefine": "1. 대'놓고 '따'돌림을 당하는것 / 보통 정도보다 훨씬 더함의 뜻을 속되게 이르는 말.\r\n2. 보통 정도보다 훨씬 더함의 뜻을 속되게 이르는 말."
+        },
+        "내말그말": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "내 말이 그말이야!'의 준말 / 상대방이 하는 말에 너무 공감이 될 때 하는말"
+        },
+        "개어이없다": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "어이없다의 강조 표현"
+        },
+        "이생집망": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "이번 생에는 집 사기는 망했다'의준말"
+        },
+        "존나": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "매우~, 너무~, 엄청~ 등 의 뜻으로 대상, 혹은 감정을 강조할 때 쓰이는 한국어의 비속어."
+        },
+        "집콕": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "방콕'에서 파생됨 / 집에 콕 박혀서 지낸다"
+        },
+        "꼰대": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "늙은이', '선생님'을 속되게 이르는 말 "
+        },
+        "딸램": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "딸래미의 줄임말"
+        },
+        "휘게라이프": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "휘게(Hygge)+라이프(Life) / 편안함, 따뜻함, 아늑함, 안락함을 추구하는 라이프스타일"
+        },
+        "청포족": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "높아지는 청약 경쟁률에 주택청약을 포기 하는 사람."
+        }
+    },
+    {
+        "빽빽이": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "흰 종이에 글씨를 빽빽하게 쓰는 벌을 일컫는 속어"
+        },
+        "몰루": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "인터넷에서 유행한 밈 / 보통 모른다는 뜻을 표현할 때 우스꽝스럽게 표현"
+        },
+        "깜지": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "흰 종이에 글씨를 빽빽하게 쓰는 벌을 일컫는 속어"
+        },
+        "쌤": {
+            "WordType": "줄임말",
+            "WordStructure": "파생어",
+            "WordDefine": "선생님(교사, 강사 등)을 줄여 부르는 말. 학생들끼리도 선생님을 부를 때 은어로 많이 쓰인다.\n 하지만 꼭 교사나 강사를 줄여 부르는 말이라기 보다는 특정 직업을 가진 사람들끼리 사람의 이름 뒤에도 붙일 수 있다. \n연구원 등 직급끼리도 쌤이라 부르는 사람들도 있다."
+        },
+        "레알": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "REAL을 발음나는데로 읽은 표현 정말 진짜 라는 뜻을 더욱 강조하는 표현'"
+        },
+        "뭥미": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "뭐냐의 통신체였던 \"뭐임\"의 오타에서 유래한 오타체"
+        },
+        "졸라": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "매우~, 너무~, 엄청~ 등 의 뜻으로 대상, 혹은 감정을 강조할 때 쓰이는 한국어의 비속어."
+        },
+        "영포자": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "영어를?포기한?자의 준말."
+        },
+        "수포자": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "수학을?포기한?자의 준말."
+        },
+        "노답": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "노답' (No+답) / 답이 없다는 뜻"
+        },
+        "갑툭튀": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "「갑자기 툭 튀어나오다」의 줄임말."
+        },
+        "흠좀무": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": " ‘흠, 이게 사실이라면 좀 무섭군’의 준말 / 믿을 수 없는 이야기나 놀랄 만한 이야기를 들었을 때 쓰인다."
+        },
+        "담탱이": {
+            "WordType": "속어",
+            "WordStructure": "파생어",
+            "WordDefine": "담임선생님'을 이르는 말."
+        },
+        "오지다": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "놀라거나 감탄할 때 사용하는 단어\""
+        },
+        "개고생": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "매우 고생이다의 강조표현 "
+        },
+        "은따": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "은근히 따돌림 당하는 아이를 지칭"
+        },
+        "극딜": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "온라인 게임에서, 상대에게 큰 피해를 주기 위해 모든 힘을 다하여 공격하는 일. 또는 그런 공격을 이르는 말."
+        },
+        "개무시": {
+            "WordType": "유행어",
+            "WordStructure": "혼성어",
+            "WordDefine": "매우 무시한다의 강조표현"
+        },
+        "왕따": {
+            "WordType": "은어",
+            "WordStructure": "기타",
+            "WordDefine": "집단에서 특정 개인을 따돌리는 일, 또는 그 대상을 일컫는 말 / '王'(왕 - 매우, 엄청) '따'돌림이라는 어원 설이 유력하다"
+        }
+    },
+    {
+        "첨": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "처음'의 준말"
+        },
+        "만반잘부": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "만나서 반가워 잘 부탁해'의 줄임말"
+        },
+        "골잘알": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "골프 잘 아는 사람'의 준말"
+        },
+        "근자감": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "근거 없는 자신감'의 줄임말인 이 표현은 젊은 세대가 주로 부정적인 의미로 쓴다."
+        },
+        "오잘공": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "오늘 가장 잘 친 공의 줄임말"
+        },
+        "어잘공": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "어쩌다 잘 친 공의 줄임말"
+        },
+        "온탕냉탕": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "그린 주위에서 온을 하지 못하고 계속 주위만 빙글빙글 도는 상황을 뜻함"
+        },
+        "일파만파": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "첫 홀을 기분 좋게 다 같이 파로 시작하자는 골프 은어"
+        },
+        "구찌": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "골프에서 상대방을 말로 견제하는 것을 의미함"
+        },
+        "방콕": {
+            "WordType": "줄임말",
+            "WordStructure": "파생어",
+            "WordDefine": "방에 콕 박혀서 지낸다/태국의 수도 '방콕'에서 파생됨"
+        },
+        "고딩": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "모바일이나 인터넷상에서, `고등학생'을 이르는 말."
+        },
+        "울": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "우리'의 준말"
+        },
+        "중딩": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "모바일이나 인터넷상에서, `중학생'을 이르는 말."
+        },
+        "폼생폼사": {
+            "WordType": "속어",
+            "WordStructure": "파생어",
+            "WordDefine": "겉으로 드러내는 멋이나 모습만을 중요한 가치로 삼음. 또는 그런 태도"
+        },
+        "초딩": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "모바일이나 인터넷상에서, `초등학생'을 이르는 말."
+        },
+        "핵꿀잼": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "핵'과 ‘꿀’과 ‘재미’의 합성어로, ‘매우 많이 재미있다’는 의미의 신조어를 한층 더 강조한 말"
+        },
+        "노잼": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "무언가가 매우 재미없다는 의미의 인터넷 유행어. "
+        },
+        "줄담": {
+            "WordType": "속어",
+            "WordStructure": "혼성어",
+            "WordDefine": "담배를 연이어 피워대는 일을 칭하는 속어"
+        },
+        "담타": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "담배 타임의 줄임말 / 담배 피러 가는시간, 담배 피러 가자의 은어 표현"
+        },
+        "맞담": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "맞-담배의 줄임말 / 서로 마주 보고 피우는 담배"
+        },
+        "오지다": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "놀라거나 감탄할 때 사용하는 단어\""
+        },
+        "찐텐": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "진짜를 뜻하는 '찐'과 '텐션'이 합쳐진 말 / 거짓이나 꾸밈 없는 진짜 기분 상태를 말하는 것"
+        },
+        "하이텐션": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "마냥?들뜬 컨디션+기분 상태를 뜻하는 말."
+        },
+        "담": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "다음의 줄임말"
+        },
+        "오키도키": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "오케이'의 준말 /  영어권에 비슷한 표현이 있기는 한데, 오키 단독으로 쓰지 않고 okey-dokey(오키도키)로 사용한다."
+        },
+        "간지나다": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "폼나다"
+        },
+        "뽀대": {
+            "WordType": "유행어",
+            "WordStructure": "기타",
+            "WordDefine": " \"멋있다, 폼난다\"는 뜻"
+        },
+        "엣지있다": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "날카로움, 모서리 등을 뜻하는 영어 edgy에서 나온 말. '두드러지고 뚜렷하게'라는 의미다."
+        },
+        "골린이": {
+            "WordType": "줄임말",
+            "WordStructure": "혼성어",
+            "WordDefine": "골프+어린이/골프를 처음 접하는 사람"
+        },
+        "용케": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": " '용하다'의 활용형인 '용하게'의 준말"
+        },
+        "히키코모리": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "사회 생활을 극도로 멀리하고, 방이나 집 등의 특정 공간에서 나가지 못하거나 나가지 않는 사람과 그러한 현상 모두를 일컫는 일본의 신조어"
+        },
+        "친목질": {
+            "WordType": "속어",
+            "WordStructure": "합성어",
+            "WordDefine": "서로 친하여 화목하다'는 뜻의 명사 친목에 '좋지 않은 행위에 비하하는 뜻을 더하는 접미사' 질을 합친 표현이다."
+        },
+        "대유잼": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "大(큰 대)有(있을 유)잼으로 큰 재미가 있다는 의미"
+        }
+    },
+    {
+        "알박기": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "개발 예정지의 땅 일부를 먼저 사들인 뒤 사업자에게 고가로 되파는 부동산 투기 수법"
+        }
+    },
+    {
+        "숲세권": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "녹지공간을 뜻하는 '숲'과 역세권의 '세권'이라는 단어의 합성어"
+        }
+    },
+    {
+        "공세권": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "공원(park)+역세권의 합성어"
+        }
+    },
+    {
+        "코린이": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "코인(가상화폐)+어린이/가상화폐에 이제 막 관심을 갖고 투자하기 시작한 사람을 뜻함"
+        }
+    },
+    {
+        "짠테크": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "짜다+제테크'의 합성어 / 절약을 통해 투자를 위한 종잣돈을 모으는 방식을 뜻함"
+        }
+    },
+    {
+        "은수저": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "한국에서는 중산층과 고소득층 사이, 이를테면 중상류 계층 (the upper-middle classes)으로 통용되지만 수저계급론의 원조인 영미권에서는 고소득층을 의미한다."
+        }
+    },
+    {
+        "개취": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "개인의 취향의 줄임말"
+        }
+    },
+    {
+        "낄끼빠빠": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": " '낄 때 끼고 빠질 때 빠져라'라는 뜻으로 분위기 파악을 잘하라는 뜻"
+        }
+    },
+    {
+        "고고싱": {
+            "WordType": "유행어",
+            "WordStructure": "합성어",
+            "WordDefine": "2000년대 초반에 유행하기 시작한 인터넷 용어로, 보통 '어서 가자', '빨리 시작하자'라는 의미로 사용된다."
+        }
+    },
+    {
+        "돌싱": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "돌아온?싱글' 의 준말. 혼인 관계를 깨고 싱글로 돌아온 이들을 가리키는 말이다."
+        }
+    },
+    {
+        "차도녀": {
+            "WordType": "은어",
+            "WordStructure": "축약어",
+            "WordDefine": "차가운 도시 여자, 남자의 준말로 겉모습은 차갑고 도도해 보이지만 자신의 이성에게는 헌신적이고 따뜻한 여자"
+        }
+    },
+    {
+        "금사빠": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "금방 사랑에 빠진다'의 줄임말/ 그러한 상태 혹은 인물을 가리키는 축약어이자 신조어"
+        }
+    },
+    {
+        "취준생": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "취업 준비생'을 줄여 이르는 말."
+        }
+    },
+    {
+        "워커홀릭": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "가정이나 다른 것보다 일이 우선이어서 오로지 일에만 몰두하여 사는 사람을 뜻함"
+        }
+    },
+    {
+        "직딩": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "직장인'을 속되게 이르는 말."
+        }
+    },
+    {
+        "옵치": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "게임 \"오버워치\"의 줄임말 "
+        }
+    },
+    {
+        "배그": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "게임 \"배틀 그라운드\"의 줄임말"
+        }
+    },
+    {
+        "광클": {
+            "WordType": "속어",
+            "WordStructure": "혼성어",
+            "WordDefine": "狂(미칠광) click(클릭)의 줄임말 / 미친듯이 마우스를 빠르게 혹은 여러번 클릭했다는 의미이다."
+        }
+    },
+    {
+        "담탱이": {
+            "WordType": "속어",
+            "WordStructure": "파생어",
+            "WordDefine": "담임선생님'을 이르는 말."
+        }
+    },
+    {
+        "수포자": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "수학을?포기한?자의 준말."
+        }
+    },
+    {
+        "셔틀": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "1. 셔틀(영어: Shuttle)은 학교 폭력의 일종으로, 가해 학생들의 강요에 의해 심부름을 하는 학생들을 총칭하는 대한민국의 신조어이다.\r\n2. '무언가를 가져다주는 공급원'을 가리킨다."
+        }
+    },
+    {
+        "꿀잼": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "‘꿀’과 ‘재미’의 합성어로, ‘매우 많이 재미있다’는 의미의 신조어."
+        }
+    },
+    {
+        "냉무": {
+            "WordType": "속어",
+            "WordStructure": "축약어",
+            "WordDefine": "내용 없음이란 의미 / 내용이 냉으로 축약되고 여기에 없음 무가 합쳐져 만들어짐"
+        }
+    },
+    {
+        "답정너": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "답은?정해져있고?너는 답만 하면 돼.'의 줄임말"
+        }
+    },
+    {
+        "랜선": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "일반적으로는 유선 인터넷 케이블을 뜻하나 인터넷상에서는 온라인 네트워크를 이용한 모임을 뜻함"
+        }
+    },
+    {
+        "가계정": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "임시 계정"
+        }
+    },
+    {
+        "리플": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "Reply에서 따온 말 / 댓글이라는 단어의 어원이다"
+        }
+    },
+    {
+        "낙곱새": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "낙지 곱창 새우 의 줄임말"
+        }
+    },
+    {
+        "혼밥": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "혼자서 밥을 먹는 행위"
+        }
+    },
+    {
+        "피맥": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "피자와 맥주를 함께 먹는 것"
+        }
+    },
+    {
+        "금사빠": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "금방 사랑에 빠진다'의 줄임말/ 그러한 상태 혹은 인물을 가리키는 축약어이자 신조어"
+        }
+    },
+    {
+        "꾸꾸꾸": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "꾸민듯 꾸민듯 꾸밈, 꾸안꾸의 반대 / 꾸며도 꾸질꾸질"
+        }
+    },
+    {
+        "얼짱": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "얼굴짱 (최고)의 줄임말. 장난조로 얼굴짱(커)나 얼굴짱나의 준말이라고도 한다."
+        }
+    },
+    {
+        "강추": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "강력추천 줄임말"
+        }
+    },
+    {
+        "식집사": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "식물과 집사의 합성어로 반려 식물을 기르는 사람을 일컫는다. 고양이를 키우는 사람을 뜻하는 '집사'에서 유래된 것으로 식물을 가족같이 돌보며 애정을 쏟는 사람들을 표현하는 말이다"
+        }
+    },
+    {
+        "근자감": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "근거 없는 자신감'의 줄임말인 이 표현은 젊은 세대가 주로 부정적인 의미로 쓴다."
+        }
+    },
+    {
+        "군대리아": {
+            "WordType": "줄임말",
+            "WordStructure": "혼성어",
+            "WordDefine": "군대 와 롯데리아를 결합시켜 탄생했다. 군대에서 일주일에 1.2번 나오는 특식."
+        }
+    },
+    {
+        "말번": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "(은어) 마지막 근무 순번을 일컽는 말."
+        }
+    },
+    {
+        "하이바": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "방탄헬멧'의 (fiber helmet) 일본식 준말을 일컫는 말.'"
+        }
+    },
+    {
+        "먹튀": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "속어이자 약자의 일종으로, ‘먹고 튀다'의?준말이며 정당한 대가를 치르지 않거나 이익만 챙겨서 떠나는 경우를 말한다."
+        }
+    },
+    {
+        "당근": {
+            "WordType": "유행어",
+            "WordStructure": "파생어",
+            "WordDefine": "재미있게 말하거나 강조하여 말할 때, '당연하다'의 뜻으로 쓰는 말"
+        }
+    },
+    {
+        "맞삭": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "맞삭제의 줄임말/ 미니홈피나 메신저에서 서로 삭제함을 의미"
+        }
+    },
+    {
+        "칼퇴": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "칼퇴근의 줄임말로 퇴근 시간이 되자마자 조금도 지체 없이 바로 퇴근함."
+        }
+    },
+    {
+        "자소서": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "자기소개서"
+        }
+    },
+    {
+        "알바": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "아르바이트'의 줄임말"
+        }
+    },
+    {
+        "물타기": {
+            "WordType": "은어",
+            "WordStructure": "기타",
+            "WordDefine": " 자신이 보유한 주식의 평균 매수단가가 현재의 주가보다 높을 때 손실을 줄일 목적으로 일정 기간을 두고 계속 매수하는 방법(scale trading)을 말한다."
+        }
+    },
+    {
+        "돈쭐내다": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "돈' + '혼쭐내다'의 합성어. 혼쭐내다는 매우 강하게 혼을 내어 꾸짖음을 묻는 것인 반면, \n이에 대한 반어법과 그 변형으로 어떠한 사람이 사회적으로 옳은 행동을 했을 때 '이 사람은 돈다발로 뺨을 때려야 한다' 라는 뜻으로 생긴 신조어"
+        }
+    },
+    {
+        "손절": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "손절매'(損切賣)의 약자, 가격이 더 떨어질 것으로 예상하고 손해를 보더라도 매도하는 행위 / '주식용어 \"손절매\"에서 유래/자신과 잘 맞지 않는 사람과 관계를 단절하는 행위"
+        }
+    },
+    {
+        "시월드": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "시댁 혹은 \"시집살이\"를 나타내는 대한민국의 인터넷 신조어"
+        }
+    },
+    {
+        "퐁퐁남": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "퐁퐁+남 /설거지론에서 '설거지'를 하는 배우자들을 조롱하는 신조어\n가정의 중요한 의사결정에서 발언권이 약하며 배우자로부터 일방적인 제약을 요구받는 등 노예와 다를 바 없는 비참한 결혼생활을 뜻함"
+        }
+    },
+    {
+        "설거지남": {
+            "WordType": "줄임말",
+            "WordStructure": "합성어",
+            "WordDefine": "음식은 다른 사람이 먹고, 여리 저기 내돌려져 더러워진 그릇은 남편이 설거지한다는 얘기\n아내에게 이용만 당하는 불쌍한 남편을 일컫는다."
+        }
+    },
+    {
+        "귀차니즘": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "게으름,귀찮음 "
+        }
+    },
+    {
+        "구라": {
+            "WordType": "속어",
+            "WordStructure": "기타",
+            "WordDefine": "거짓말'을 속되게 이르는 말"
+        }
+    },
+    {
+        "극혐": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "극도로 혐오한다는 말의 신조어"
+        }
+    },
+    {
+        "주세권": {
+            "WordType": "은어",
+            "WordStructure": "혼성어",
+            "WordDefine": "술을 뜻하는 주(酒)+ 역세권'의 합성어 / 퇴근 후 술 한잔 하기 좋은 곳"
+        }
+    },
+    {
+        "마용성": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "서울특별시에 소재한 마포구, 용산구, 성동구의 첫 글자를 각각 따왔다."
+        }
+    },
+    {
+        "아도치기": {
+            "WordType": "은어",
+            "WordStructure": "기타",
+            "WordDefine": "일정한 단지의 상가를 모두 '통매입' 하는 것"
+        }
+    },
+    {
+        "개이득": {
+            "WordType": "속어",
+            "WordStructure": "파생어",
+            "WordDefine": "정말로라는 뜻으로도 쓰이는 접두사 개-와 이득이 함께 쓰인 파생어/ \"완전이득\"의 강조"
+        }
+    },
+    {
+        "걍": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "그냥'의 줄임말"
+        }
+    },
+    {
+        "격공": {
+            "WordType": "줄임말",
+            "WordStructure": "축약어",
+            "WordDefine": "격하게 공감한다'의 준말"
+        }
+    },
+    {
+        "와이파이샷": {
+            "WordType": "은어",
+            "WordStructure": "합성어",
+            "WordDefine": "골프에서 공이 좌 우로 나가는 샷"
+        }
+    },
+    {
+        "호캉스": {
+            "WordType": "줄임말",
+            "WordStructure": "혼성어",
+            "WordDefine": "호텔+바캉스'의 합성어로 호텔에서 즐기는 바캉스를 의미함"
+        }
+    },
+    {
+        "맛세이": {
+            "WordType": "은어",
+            "WordStructure": "파생어",
+            "WordDefine": "당구은어 / 찍어치기, 세워치기 : 프랑스어 Masse를 일본어로 맛세（マッセ）라고 하는데서 잘못 쓰였다."
+        }
+    }
+]
