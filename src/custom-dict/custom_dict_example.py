@@ -6,8 +6,6 @@ import re
 from bareunpy import Tagger
 from google.protobuf.json_format import MessageToDict
 from wordcloud import WordCloud
-import matplotlib.pyplot as plt
-from nltk import ngrams
 from collections import Counter
 
 class CustomDictAnalyzer:
@@ -39,6 +37,11 @@ class CustomDictAnalyzer:
         self.results = []
 
     def mapping_name(self, target_dir_files):
+        """
+        파일 경로의 목록을 받아 파일 이름을 키로, 전체 파일 경로를 값으로 하는 사전을 생성합니다.
+        :param target_dir_files: 분석 대상 디렉토리 내의 파일 목록
+        :return wav_id_dict: 파일 이름을 기준으로 한 파일 경로의 사전(dictionary)
+        """
         wav_id_dict = {}
         for wav in target_dir_files:
             bn =  os.path.basename(wav).split('.')[0]
@@ -92,6 +95,11 @@ class CustomDictAnalyzer:
         print(f'문장 파일 저장 완료 --> out/txt/{out_name}.txt')
     
     def make_custom_dict(self, dict_name="my_dict_01"):
+        """
+        지정된 이름으로 사용자 정의 사전을 생성하고 업데이트합니다.
+        :param dict_name: 생성할 사용자 정의 사전의 이름
+        :return None: 이 함수는 내부 상태를 변경하고 사용자 정의 사전을 업데이트하지만 반환 값이 없습니다.
+        """
         custom_dict = self.tagger.custom_dict(dict_name)
         word_dict = {key: None for dict_item in self.total_words for key in dict_item.keys()}
         custom_dict.copy_cp_set(word_dict)
@@ -99,7 +107,10 @@ class CustomDictAnalyzer:
     
     def analyze_morpheme(self, out_name, dict_name="my_dict_01"):
         """
-        형태소 분석을 수행합니다.
+        사용자 정의 사전을 바탕으로 형태소 분석을 수행하고 그 결과를 파일로 저장합니다.
+        :param out_name: 형태소 분석 결과를 저장할 파일 이름
+        :param dict_name: 사용할 사용자 정의 사전의 이름
+        :return None: 이 함수는 결과를 파일로 저장하므로 반환 값이 없습니다.
         """
         # 이전 사용자 사전 불러오기
         self.custom_dict = self.tagger.custom_dict(dict_name)
@@ -123,6 +134,14 @@ class CustomDictAnalyzer:
 
     # 워드 클라우드 생성 및 시각화 함수
     def create_word_cloud(self, sentences, target_word, n=5, output_dir='out/jpg'):
+        """
+        함수는 주어진 문장들에서 지정된 단어 주변의 문맥을 기반으로 워드 클라우드를 생성하고 저장합니다.
+        :param sentences: 워드 클라우드 생성을 위한 문장들
+        :param target_word: 워드 클라우드에서 중심이 될 단어
+        :param n: 워드 클라우드를 생성할 때 고려할 문맥의 크기 (기본값 5)
+        :param output_dir: 워드 클라우드 이미지를 저장할 디렉토리
+        :return None: 워드 클라우드는 이미지 파일로 저장되므로 반환 값이 없습니다.
+        """
         os.makedirs('out/jpg', exist_ok=True)
         # N-gram 추출
         word_freq = Counter()
@@ -148,6 +167,11 @@ class CustomDictAnalyzer:
         
         
     def analyze_custom_dict_tokens(self, json_file):
+        """
+        JSON 파일을 분석하여 사용자 정의 사전에 포함된 단어의 빈도, 다음 토큰의 태그와 빈도, 그리고 클린징된 문장들을 반환합니다.
+        :param json_file: 분석할 JSON 파일 경로
+        :return custom_word_freq, next_token_tags, all_sentences: 사용자 정의 사전에 포함된 단어의 빈도, 다음 토큰의 태그 및 빈도, 클린징된 문장들
+        """
         with open(json_file, 'r', encoding='utf-8') as file:
             data = json.load(file)
         
