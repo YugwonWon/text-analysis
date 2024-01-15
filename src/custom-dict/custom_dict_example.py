@@ -123,6 +123,7 @@ class CustomDictAnalyzer:
 
     # 워드 클라우드 생성 및 시각화 함수
     def create_word_cloud(self, sentences, target_word, n=5, output_dir='out/jpg'):
+        os.makedirs('out/jpg', exist_ok=True)
         # N-gram 추출
         word_freq = Counter()
         for sentence in sentences:
@@ -229,7 +230,7 @@ class CustomDictAnalyzer:
 if __name__ == '__main__':
     corpus_targets = ['data/abbreviation']
     analyzer = CustomDictAnalyzer(corpus_targets)
-    # analyzer.run()
+    analyzer.run()
     custom_word_freq, next_token_tags, cleaned_sentences = analyzer.analyze_custom_dict_tokens('out/json/corpus/형태소분석_결과.json')
     analyzer.create_word_cloud(cleaned_sentences, target_word='고딩', n=3)
     analyzer.create_word_cloud(cleaned_sentences, target_word='직딩', n=3)
