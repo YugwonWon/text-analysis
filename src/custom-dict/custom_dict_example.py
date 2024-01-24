@@ -20,19 +20,16 @@ class CustomDictAnalyzer:
         # bareun api-key를 불러옵니다.
         with open('config.json', 'r') as f:
             self.config = json.load(f)
-        
+
         # bareun 형태소 분석 객체를 불러옵니다.
         self.tagger = Tagger(self.config['bareun-api-key'], 'localhost')
-        
+
         # json파일 및 wav파일 목록을 만듭니다.
         self.corpus_list = corpus_list
         self.corpus_json_dict = {}
-        # self.corpus_wav_dict = {}
         for idx, corpus in enumerate(corpus_list):
-            # wavs = glob.glob(os.path.join(corpus, '**/*.wav'), recursive=True) # file 이름 규칙은 변경될 수 있다.
             json_files = glob.glob(os.path.join(corpus, '**/*.json'), recursive=True)
             self.corpus_json_dict[f'{str(idx)}_json'] = json_files # 요청된 corpus 리스트 순서대로 번호를 부여한다.
-            # self.corpus_wav_dict[f'{str(idx)}_wavs'] = self.mapping_name(wavs)
 
         self.results = []
 
@@ -48,7 +45,7 @@ class CustomDictAnalyzer:
             wav_id_dict[bn] = wav
 
         return wav_id_dict
-    
+
     def extract_word_sent(self, corpus_id, out_name):
         """
         단어와 문장을 파일로 추출합니다.
@@ -74,26 +71,26 @@ class CustomDictAnalyzer:
                             "WordStructure": word_info["WordStructure"],
                             "WordDefine": word_info["WordDefine"]
                         }
-                    
+
                 self.total_words.append(word_info_dict) # 전체 단어 저장
-                
+
         elif corpus_id == 1:
             # 코퍼스 json구조에 맞게 수정합니다.
             pass
-        
+
         if not os.path.isdir('out/json/corpus'):
             os.makedirs('out/json/corpus')
         with open(f'out/json/corpus/{out_name}.json', 'w', encoding='utf-8') as file:
             json.dump(self.total_words, file, ensure_ascii=False, indent=4)
         print(f'단어 파일 저장 완료 --> out/json/corpus/{out_name}.json')
-            
+
         if not os.path.isdir('out/txt'):
             os.makedirs('out/txt')
         with open(f'out/txt/{out_name}.txt', 'w', encoding='utf-8') as f:
             for sent in self.total_sents:
                 f.write(f'{sent}\n')
         print(f'문장 파일 저장 완료 --> out/txt/{out_name}.txt')
-    
+
     def make_custom_dict(self, dict_name="my_dict_01"):
         """
         지정된 이름으로 사용자 정의 사전을 생성하고 업데이트합니다.
@@ -104,7 +101,19 @@ class CustomDictAnalyzer:
         word_dict = {key: None for dict_item in self.total_words for key in dict_item.keys()}
         custom_dict.copy_cp_set(word_dict)
         custom_dict.update()
-    
+
+    def make_join_sentence(self):
+        """
+        문장을 500문장이 한 문장이 되도록 단위로 합칩니다.
+        :return join_texts: 500문장이 합쳐져서 한 문장이 된 리스트
+        """
+        len_lines = len(self.total_sents)
+        num_itters = len_lines//500 + 1 if len_lines%500 != 0 else len_lines//500
+        join_texts = []
+        for i in range(num_itters):
+            join_texts.append(" ".join(self.total_sents[500*i:500*(i+1)]))
+        return join_texts
+
     def analyze_morpheme(self, out_name, dict_name="my_dict_01"):
         """
         사용자 정의 사전을 바탕으로 형태소 분석을 수행하고 그 결과를 파일로 저장합니다.
@@ -117,18 +126,25 @@ class CustomDictAnalyzer:
         self.custom_dict.load()
         self.tagger.set_domain('my_dict_01')
         results = []
-        for sent in self.total_sents:
+        join_sents = self.make_join_sentence()
+        for sent in join_sents:
             try:
-                _temp_dict = {}
-                res = self.tagger.tag(sent)
+
+                res = self.tagger.tag(sent, auto_spacing=False, auto_jointing=False) # 형태소 분석 호출
                 res = MessageToDict(res.r)
-                _temp_dict[res['sentences'][0]['text']['content']] = {}
-                _temp_dict[res['sentences'][0]['text']['content']]['tokens'] = res['sentences'][0]['tokens']
-                results.append(_temp_dict)
+                start_idx = 0
+                # 500 문장으로 합친 것을 다시 문장 단위로 분할합니다. 어절을 기준으로 index를 계산합니다.
+                for idx in range(0, len(self.total_sents)):
+                    _temp_dict = {}
+                    end_idx = start_idx+len(self.total_sents[idx].split())
+                    _temp_dict[self.total_sents[idx]] = {}
+                    _temp_dict[self.total_sents[idx]]['tokens'] = res['sentences'][0]['tokens'][start_idx:end_idx]
+                    start_idx += len(self.total_sents[idx].split())
+                    results.append(_temp_dict)
             except:
                 print(f'analyze error! sent: {sent}')
                 continue
-        
+
         with open(f'out/json/corpus/{out_name}.json', 'w', encoding='utf-8') as f:
             json.dump(results, f, ensure_ascii=False, indent=4)
 
@@ -158,14 +174,14 @@ class CustomDictAnalyzer:
         # 워드 클라우드로 시각화
         wordcloud = WordCloud(
             font_path='/usr/local/lib/python3.10/dist-packages/matplotlib/mpl-data/fonts/ttf/NanumBarunGothic.ttf',
-            width=800, 
-            height=400, 
+            width=800,
+            height=400,
             background_color='white'
         ).generate_from_frequencies(word_freq)
         output_file = os.path.join(output_dir, f'{target_word}_wordcloud.jpg')
         wordcloud.to_file(output_file)
-        
-        
+
+
     def analyze_custom_dict_tokens(self, json_file):
         """
         JSON 파일을 분석하여 사용자 정의 사전에 포함된 단어의 빈도, 다음 토큰의 태그와 빈도, 그리고 클린징된 문장들을 반환합니다.
@@ -174,7 +190,7 @@ class CustomDictAnalyzer:
         """
         with open(json_file, 'r', encoding='utf-8') as file:
             data = json.load(file)
-        
+
         # 중간 처리를 위한 임시 저장소
         custom_word_freq = {}
         next_token_tags = {}
@@ -189,9 +205,11 @@ class CustomDictAnalyzer:
                     token = tokens[i]
                     for morpheme in token['morphemes']:
                         token_tag = f"{morpheme['text']['content']}/{morpheme['tag']}"
-                        if self.check_pattern(token_tag):  # 불용어 제거
-                            cleaned_sentence.append(morpheme['text']['content'])
 
+                        # 정규식을 적용하여 불용어 제거, False면 추가하지 않습니다.
+                        if self.check_pattern(token_tag):
+                            cleaned_sentence.append(morpheme['text']['content'])
+                        # 사용자 사전 단어인지 확인하고, 사용자 사전 단어면 카운트합니다.
                         if 'outOfVocab' in morpheme and morpheme['outOfVocab'] == 'IN_CUSTOM_DICT':
                             word = morpheme['text']['content']
                             custom_word_freq[word] = custom_word_freq.get(word, 0) + 1
@@ -201,7 +219,7 @@ class CustomDictAnalyzer:
                                 next_token_tag = next_token['morphemes'][0]['tag']
                                 token_tag = f'{next_token["morphemes"][0]["text"]["content"]}/{next_token_tag}'
                                 next_token_tags[token_tag] = next_token_tags.get(token_tag, 0) + 1
-                
+
                 # 불용어를 제거한 문장을 all_sentences에 추가
                 all_sentences.append(' '.join(cleaned_sentence))
 
@@ -228,14 +246,21 @@ class CustomDictAnalyzer:
             writer.writerow(['Cleaned Sentence'])
             for sentence in all_sentences:
                 writer.writerow([sentence])
-        
+
         return custom_word_freq, next_token_tags, all_sentences
-    
+
     @staticmethod
     def check_pattern(token_tag):
-        pattern = r'/(J|E|S|E)|\d+/N|^(하|이|되|있|아니)/V'
-        return not re.search(pattern, token_tag)    
-    
+        """
+        이 정규 표현식은 세 부분으로 나뉩니다.
+        1. /(J|E|S): / 뒤에 J(조사류), E(어미류), S(기호류) 중 하나가 오는 경우를 찾습니다.
+        2. \d+/N: 숫자(\d+) 뒤에 /N이 오는 경우를 찾습니다. ex 1/N
+        3. ^(하|이|되|있|아니)/V: 문자열의 시작(^)에서 하, 이, 되, 있, 아니 중 하나 뒤에 /V가 오는 경우를 찾습니다.
+        :return bool: True, False
+        """
+        pattern = r'/(J|E|S)|\d+/N|^(하|이|되|있|아니)/V'
+        return not re.search(pattern, token_tag)
+
     def run(self):
         """
         코퍼스 인덱스에 따라서 형태소 분석을 수행합니다.
@@ -249,7 +274,7 @@ class CustomDictAnalyzer:
             print(f'Finish')
             print(f'---------------------------------------------')
             self.results = [] # 변수 초기화
-        
+
 
 if __name__ == '__main__':
     corpus_targets = ['data/abbreviation']
@@ -259,4 +284,3 @@ if __name__ == '__main__':
     analyzer.create_word_cloud(cleaned_sentences, target_word='고딩', n=3)
     analyzer.create_word_cloud(cleaned_sentences, target_word='직딩', n=3)
 
-    
