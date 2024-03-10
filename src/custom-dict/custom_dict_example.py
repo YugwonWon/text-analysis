@@ -35,7 +35,7 @@ class CustomDictAnalyzer:
 
     def mapping_name(self, target_dir_files):
         """
-        파일 경로의 목록을 받아 파일 이름을 키로, 전체 파일 경로를 값으로 하는 사전을 생성합니다.
+        파일 경로의 목록을 받아 파일 이름을 key로, 전체 파일 경로를 값으로 하는 사전을 생성합니다.
         :param target_dir_files: 분석 대상 디렉토리 내의 파일 목록
         :return wav_id_dict: 파일 이름을 기준으로 한 파일 경로의 사전(dictionary)
         """
@@ -127,23 +127,40 @@ class CustomDictAnalyzer:
         self.tagger.set_domain('my_dict_01')
         results = []
         join_sents = self.make_join_sentence()
-        for sent in join_sents:
-            try:
-
-                res = self.tagger.tag(sent, auto_spacing=False, auto_jointing=False) # 형태소 분석 호출
-                res = MessageToDict(res.r)
-                start_idx = 0
-                # 500 문장으로 합친 것을 다시 문장 단위로 분할합니다. 어절을 기준으로 index를 계산합니다.
-                for idx in range(0, len(self.total_sents)):
-                    _temp_dict = {}
-                    end_idx = start_idx+len(self.total_sents[idx].split())
-                    _temp_dict[self.total_sents[idx]] = {}
-                    _temp_dict[self.total_sents[idx]]['tokens'] = res['sentences'][0]['tokens'][start_idx:end_idx]
-                    start_idx += len(self.total_sents[idx].split())
-                    results.append(_temp_dict)
-            except:
-                print(f'analyze error! sent: {sent}')
-                continue
+        os.makedirs('out/csv', exist_ok=True)
+        # CSV 파일을 위한 준비
+        with open(f'out/csv/{out_name}.csv', mode='w', newline='', encoding='utf-8') as csv_file:
+            fieldnames = ['문장번호', '문장', '어절번호', '어절', '형태소태그']
+            writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+            writer.writeheader()
+            
+            sentence_number = 0
+            for sent in join_sents:
+                try:
+                    # 형태소 분석 호출
+                    res = self.tagger.tag(sent, auto_spacing=False, auto_jointing=False) 
+                    res = MessageToDict(res.r)
+                    start_idx = 0
+                    # 500 문장으로 합친 것을 다시 문장 단위로 분할합니다. 어절을 기준으로 index를 계산합니다.
+                    for idx in range(0, len(self.total_sents)):
+                        _temp_dict = {}
+                        end_idx = start_idx+len(self.total_sents[idx].split())
+                        _temp_dict[self.total_sents[idx]] = {}
+                        tokens = res['sentences'][0]['tokens'][start_idx:end_idx]
+                        _temp_dict[self.total_sents[idx]]['tokens'] = tokens
+                        start_idx += len(self.total_sents[idx].split())
+                        results.append(_temp_dict)
+                        
+                        # CSV에 쓰기
+                        for word_idx, token in enumerate(tokens):
+                            word = token['text']['content']
+                            morpheme_tags = token['tagged']
+                            token_number = f"{sentence_number}-{word_idx + 1}"
+                            writer.writerow({'문장번호': sentence_number, '문장': self.total_sents[idx], '어절번호': token_number, '어절': word, '형태소태그': morpheme_tags})
+                        sentence_number += 1
+                except Exception as e:
+                    print(f'An error occurred during sentence analysis, {sent}: {e}')
+                    continue
 
         with open(f'out/json/corpus/{out_name}.json', 'w', encoding='utf-8') as f:
             json.dump(results, f, ensure_ascii=False, indent=4)

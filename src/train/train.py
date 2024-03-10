@@ -2,6 +2,7 @@ import os
 import re
 import json
 import gensim
+import glob
 import tensorflow as tf
 import matplotlib.pyplot as plt
 from sklearn.manifold import TSNE
@@ -15,9 +16,10 @@ def read_text_files(directory):
     :param directory: 텍스트 파일이 저장된 디렉토리 경로
     :return: 파일의 모든 줄을 포함하는 리스트
     """
+    text_files = glob.glob(os.path.join(directory, '**/*.txt'), recursive=True)
     sentences = []
-    for text_file in os.listdir(directory):
-        with open(f'{directory}/{text_file}', 'r', encoding='utf-8') as file:
+    for text_file in text_files:
+        with open(text_file, 'r', encoding='utf-8') as file:
             sentences.extend(file.readlines())
     return sentences
 
@@ -28,8 +30,8 @@ def initialize_bareunpy():
     """
     with open('config.json', 'r') as f:
         config = json.load(f)
-    tagger = Tagger(apikey=config['bareun-api-key'], host='localhost')
-    tokenizer = Tokenizer(apikey=config['bareun-api-key'], host='localhost')
+    # tagger = Tagger(apikey=config['bareun-api-key'], host='localhost') # 형태소 분석 개체 
+    tokenizer = Tokenizer(apikey=config['bareun-api-key'], host='localhost') # 토크나이징 객체
     return tokenizer
 
 def tokenize_sentences(tokenizer, sentences):
