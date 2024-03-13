@@ -22,7 +22,7 @@ class CustomDictAnalyzer:
             self.config = json.load(f)
 
         # bareun 형태소 분석 객체를 불러옵니다.
-        self.tagger = Tagger(self.config['bareun-api-key'], 'localhost')
+        self.tagger = Tagger(self.config['bareun_api_key'], 'localhost')
 
         # json파일 및 wav파일 목록을 만듭니다.
         self.corpus_list = corpus_list
@@ -197,6 +197,7 @@ class CustomDictAnalyzer:
         ).generate_from_frequencies(word_freq)
         output_file = os.path.join(output_dir, f'{target_word}_wordcloud.jpg')
         wordcloud.to_file(output_file)
+        print('saved word cloud -> see "out/jpg"')
 
 
     def analyze_custom_dict_tokens(self, json_file):
