@@ -3,6 +3,16 @@ import os
 import glob
 import csv
 import re
+import logging
+
+# 로거 생성 및 로그 레벨 설정
+logger = logging.getLogger('custom_dict_example')
+logger.setLevel(logging.DEBUG)  # DEBUG, INFO, WARNING, ERROR, CRITICAL 중 원하는 레벨 설정
+
+# 파일 핸들러 생성 및 로그 파일 설정
+file_handler = logging.FileHandler('out/analyzer.log')
+file_handler.setLevel(logging.DEBUG)  # 파일에 기록될 로그 레벨
+
 from bareunpy import Tagger
 from google.protobuf.json_format import MessageToDict
 from wordcloud import WordCloud
@@ -22,7 +32,7 @@ class CustomDictAnalyzer:
             self.config = json.load(f)
 
         # bareun 형태소 분석 객체를 불러옵니다.
-        self.tagger = Tagger(self.config['bareun_api_key'], 'localhost')
+        self.tagger = Tagger(self.config['bareun_api_key'], 'bigkinds-apiLB-2834425-f49051393917.kr-gov.lb.naverncp.com', port=5757)
 
         # json파일 및 wav파일 목록을 만듭니다.
         self.corpus_list = corpus_list
@@ -102,19 +112,20 @@ class CustomDictAnalyzer:
         custom_dict.copy_cp_set(word_dict)
         custom_dict.update()
 
-    def make_join_sentence(self):
+    def make_join_sentence(self, n_sent=1):
         """
-        문장을 500문장이 한 문장이 되도록 단위로 합칩니다.
-        :return join_texts: 500문장이 합쳐져서 한 문장이 된 리스트
+        문장을 n문장이 한 문장이 되도록 단위로 합칩니다.
+        :param n_sent: 합칠 문장 개수
+        :return join_texts: n문장이 합쳐져서 한 문장이 된 리스트
         """
         len_lines = len(self.total_sents)
-        num_itters = len_lines//500 + 1 if len_lines%500 != 0 else len_lines//500
+        num_itters = len_lines//n_sent + 1 if len_lines%n_sent != 0 else len_lines//n_sent
         join_texts = []
         for i in range(num_itters):
-            join_texts.append(" ".join(self.total_sents[500*i:500*(i+1)]))
+            join_texts.append(" ".join(self.total_sents[n_sent*i:n_sent*(i+1)]))
         return join_texts
 
-    def analyze_morpheme(self, out_name, dict_name="my_dict_01"):
+    def analyze_morpheme(self, out_name, dict_name="my_dict_01", join_n_sent=1):
         """
         사용자 정의 사전을 바탕으로 형태소 분석을 수행하고 그 결과를 파일로 저장합니다.
         :param out_name: 형태소 분석 결과를 저장할 파일 이름
@@ -126,7 +137,7 @@ class CustomDictAnalyzer:
         self.custom_dict.load()
         self.tagger.set_domain('my_dict_01')
         results = []
-        join_sents = self.make_join_sentence()
+        join_sents = self.make_join_sentence(n_sent=join_n_sent)
         os.makedirs('out/csv', exist_ok=True)
         # CSV 파일을 위한 준비
         with open(f'out/csv/{out_name}.csv', mode='w', newline='', encoding='utf-8') as csv_file:
@@ -159,6 +170,7 @@ class CustomDictAnalyzer:
                             writer.writerow({'문장번호': sentence_number, '문장': self.total_sents[idx], '어절번호': token_number, '어절': word, '형태소태그': morpheme_tags})
                         sentence_number += 1
                 except Exception as e:
+                    logger.error(f'An error occurred during sentence analysis, {sent}: {e}')
                     print(f'An error occurred during sentence analysis, {sent}: {e}')
                     continue
 
@@ -279,7 +291,7 @@ class CustomDictAnalyzer:
         pattern = r'/(J|E|S)|\d+/N|^(하|이|되|있|아니)/V'
         return not re.search(pattern, token_tag)
 
-    def run(self):
+    def run(self, join_n_sent=1):
         """
         코퍼스 인덱스에 따라서 형태소 분석을 수행합니다.
         """
@@ -288,7 +300,7 @@ class CustomDictAnalyzer:
             print(f'target_corpus_directory: {corpus}\nindex: {k}')
             self.extract_word_sent(idx, out_name='은어_데이터')
             self.make_custom_dict(dict_name='my_dict_01')
-            self.analyze_morpheme(out_name='형태소분석_결과', dict_name='my_dict_01')
+            self.analyze_morpheme(out_name='형태소분석_결과', dict_name='my_dict_01', join_n_sent=join_n_sent)
             print(f'Finish')
             print(f'---------------------------------------------')
             self.results = [] # 변수 초기화
@@ -297,7 +309,7 @@ class CustomDictAnalyzer:
 if __name__ == '__main__':
     corpus_targets = ['data/abbreviation']
     analyzer = CustomDictAnalyzer(corpus_targets)
-    analyzer.run()
+    analyzer.run(join_n_sent=1)
     custom_word_freq, next_token_tags, cleaned_sentences = analyzer.analyze_custom_dict_tokens('out/json/corpus/형태소분석_결과.json')
     analyzer.create_word_cloud(cleaned_sentences, target_word='고딩', n=3)
     analyzer.create_word_cloud(cleaned_sentences, target_word='직딩', n=3)
