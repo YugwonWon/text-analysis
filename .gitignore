@@ -5,6 +5,8 @@ __pycache__/
 data/abbreviation
 data/word2vec
 out
+output
+*.DS_Store
 # C extensions
 *.so
 
